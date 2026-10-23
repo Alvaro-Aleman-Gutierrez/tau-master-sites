@@ -1,0 +1,353 @@
+IQ-TREE multicore version 2.0.7 for Linux 64-bit built Jan 21 2022
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    Aleman (AVX2, FMA3, 11 GB RAM)
+Command: iqtree2 -s /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/mapt_2N4R_final.aln.faa -te /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/phylo_protein/mapt_2N4R_constrained.treefile -m HIVb+F+R4 --ancestral -T 4 --prefix /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr -redo --quiet
+Seed:    529853 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Fri Oct 23 15:57:40 2026
+Kernel:  AVX+FMA - 4 threads (12 CPU cores detected)
+
+Reading alignment file /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/mapt_2N4R_final.aln.faa ... Fasta format detected
+Alignment most likely contains protein sequences
+Alignment has 259 sequences with 563 columns, 374 distinct patterns
+196 parsimony-informative, 70 singleton sites, 297 constant sites
+                                             Gap/Ambiguity  Composition  p-value
+   1  Homo_sapiens                                  21.67%    passed    100.00%
+   2  Mus_musculus                                  23.62%    passed    100.00%
+   3  Rattus_norvegicus                             23.27%    passed    100.00%
+   4  Bos_taurus                                    20.43%    passed    100.00%
+   5  Pan_troglodytes                               21.67%    passed    100.00%
+   6  Canis_lupus_familiaris                        21.67%    passed    100.00%
+   7  Macaca_mulatta                                21.67%    passed    100.00%
+   8  Monodelphis_domestica                         20.78%    passed     90.89%
+   9  Equus_caballus                                20.96%    passed    100.00%
+  10  Ornithorhynchus_anatinus                      21.85%    passed     92.71%
+  11  Oryctolagus_cuniculus                         23.27%    passed    100.00%
+  12  Callithrix_jacchus                            23.45%    passed    100.00%
+  13  Pongo_abelii                                  21.67%    passed    100.00%
+  14  Nomascus_leucogenys                           21.67%    passed    100.00%
+  15  Loxodonta_africana                            21.85%    passed    100.00%
+  16  Cavia_porcellus                               23.62%    passed    100.00%
+  17  Sus_scrofa                                    23.09%    passed    100.00%
+  18  Capra_hircus                                  23.27%    passed    100.00%
+  19  Sarcophilus_harrisii                          20.60%    passed     99.71%
+  20  Otolemur_garnettii                            21.85%    passed    100.00%
+  21  Pan_paniscus                                  21.67%    passed    100.00%
+  22  Papio_anubis                                  21.67%    passed    100.00%
+  23  Saimiri_boliviensis                           23.45%    passed    100.00%
+  24  Felis_catus                                   20.78%    passed    100.00%
+  25  Ovis_aries                                    23.27%    passed    100.00%
+  26  Gorilla_gorilla_gorilla                       21.67%    passed    100.00%
+  27  Orcinus_orca                                  22.02%    passed    100.00%
+  28  Tursiops_truncatus                            22.02%    passed    100.00%
+  29  Trichechus_manatus_latirostris                21.85%    passed    100.00%
+  30  Odobenus_rosmarus_divergens                   20.78%    passed    100.00%
+  31  Ceratotherium_simum_simum                     20.96%    passed    100.00%
+  32  Dasypus_novemcinctus                          20.96%    passed    100.00%
+  33  Ochotona_princeps                             23.27%    passed     99.99%
+  34  Sorex_araneus                                 21.31%    passed     99.89%
+  35  Octodon_degus                                 23.45%    passed    100.00%
+  36  Jaculus_jaculus                               28.42%    passed    100.00%
+  37  Condylura_cristata                            20.78%    passed    100.00%
+  38  Echinops_telfairi                             29.66%    passed     99.37%
+  39  Mustela_putorius_furo                         22.56%    passed    100.00%
+  40  Heterocephalus_glaber                         23.27%    passed    100.00%
+  41  Mesocricetus_auratus                          23.27%    passed    100.00%
+  42  Ictidomys_tridecemlineatus                    23.62%    passed    100.00%
+  43  Microtus_ochrogaster                          23.27%    passed    100.00%
+  44  Chinchilla_lanigera                           23.45%    passed    100.00%
+  45  Macaca_fascicularis                           21.67%    passed    100.00%
+  46  Myotis_brandtii                               21.85%    passed    100.00%
+  47  Bos_mutus                                     23.62%    passed    100.00%
+  48  Bubalus_bubalis                               23.62%    passed    100.00%
+  49  Myotis_lucifugus                              21.67%    passed    100.00%
+  50  Tupaia_belangeri_chinensis                    15.81%    passed     77.95%
+  51  Camelus_ferus                                 23.09%    passed    100.00%
+  52  Vicugna_pacos                                 23.09%    passed    100.00%
+  53  Leptonychotes_weddellii                       20.78%    passed    100.00%
+  54  Chrysochloris_asiatica                        21.85%    passed     99.94%
+  55  Elephantulus_edwardii                         31.08%    failed      0.00%
+  56  Pteropus_alecto                               20.78%    passed    100.00%
+  57  Peromyscus_maniculatus_bairdii                23.27%    passed    100.00%
+  58  Panthera_tigris                               20.78%    passed    100.00%
+  59  Balaenoptera_acutorostrata                    23.09%    passed    100.00%
+  60  Lipotes_vexillifer                            22.02%    passed    100.00%
+  61  Orycteropus_afer_afer                         21.85%    passed    100.00%
+  62  Chlorocebus_sabaeus                           21.67%    passed    100.00%
+  63  Eptesicus_fuscus                              21.67%    passed    100.00%
+  64  Equus_przewalskii                             20.96%    passed    100.00%
+  65  Nannospalax_galili                            23.27%    passed    100.00%
+  66  Rhinopithecus_roxellana                       21.67%    passed    100.00%
+  67  Fukomys_damarensis                            23.27%    passed    100.00%
+  68  Bison_bison_bison                             23.62%    passed    100.00%
+  69  Camelus_bactrianus                            23.09%    passed    100.00%
+  70  Camelus_dromedarius                           28.24%    passed    100.00%
+  71  Pteropus_vampyrus                             31.08%    passed     99.70%
+  72  Macaca_nemestrina                             21.67%    passed    100.00%
+  73  Mandrillus_leucophaeus                        21.67%    passed    100.00%
+  74  Cercocebus_atys                               21.67%    passed    100.00%
+  75  Aotus_nancymaae                               23.45%    passed    100.00%
+  76  Propithecus_coquereli                         21.85%    passed    100.00%
+  77  Microcebus_murinus                            21.85%    passed    100.00%
+  78  Dipodomys_ordii                               23.27%    passed    100.00%
+  79  Equus_asinus                                  20.96%    passed    100.00%
+  80  Acinonyx_jubatus                              20.78%    passed    100.00%
+  81  Marmota_marmota_marmota                       23.27%    passed    100.00%
+  82  Rousettus_aegyptiacus                         20.78%    passed    100.00%
+  83  Miniopterus_natalensis                        20.78%    passed    100.00%
+  84  Cebus_imitator                                23.45%    passed    100.00%
+  85  Manis_javanica                                17.23%    failed      0.22%
+  86  Rhinopithecus_bieti                           21.67%    passed    100.00%
+  87  Panthera_pardus                               20.78%    passed    100.00%
+  88  Hipposideros_armiger                          20.96%    passed    100.00%
+  89  Rhinolophus_sinicus                           20.96%    passed    100.00%
+  90  Bos_indicus                                   23.62%    passed    100.00%
+  91  Castor_canadensis                             23.27%    passed    100.00%
+  92  Odocoileus_virginianus                        23.27%    passed    100.00%
+  93  Phascolarctos_cinereus                        20.78%    passed     99.71%
+  94  Mus_caroli                                    23.62%    passed    100.00%
+  95  Mus_pahari                                    23.62%    passed    100.00%
+  96  Meriones_unguiculatus                         23.09%    passed    100.00%
+  97  Neomonachus_schauinslandi                     25.93%    passed    100.00%
+  98  Delphinapterus_leucas                         22.02%    passed    100.00%
+  99  Piliocolobus_tephrosceles                     21.67%    passed    100.00%
+ 100  Desmodus_rotundus                             20.78%    passed    100.00%
+ 101  Neophocaena_asiaeorientalis_asiaeorientalis   22.02%    passed    100.00%
+ 102  Theropithecus_gelada                          21.67%    passed    100.00%
+ 103  Canis_lupus_dingo                             21.67%    passed    100.00%
+ 104  Callorhinus_ursinus                           20.78%    passed    100.00%
+ 105  Puma_concolor                                 20.78%    passed    100.00%
+ 106  Vulpes_vulpes                                 21.67%    passed    100.00%
+ 107  Urocitellus_parryii                           23.62%    passed    100.00%
+ 108  Ursus_arctos                                  21.14%    passed    100.00%
+ 109  Aethalodelphis_obliquidens                    22.02%    passed    100.00%
+ 110  Bos_indicus_x_Bos_taurus                      23.62%    passed    100.00%
+ 111  Zalophus_californianus                        20.78%    passed    100.00%
+ 112  Vombatus_ursinus                              20.78%    passed     99.77%
+ 113  Marmota_flaviventris                          23.27%    passed    100.00%
+ 114  Eumetopias_jubatus                            20.78%    passed    100.00%
+ 115  Phyllostomus_discolor                         20.78%    passed    100.00%
+ 116  Grammomys_surdaster                           22.91%    passed    100.00%
+ 117  Peromyscus_leucopus                           25.04%    passed    100.00%
+ 118  Monodon_monoceros                             22.02%    passed    100.00%
+ 119  Lynx_canadensis                               20.78%    passed    100.00%
+ 120  Mastomys_coucha                               23.27%    passed    100.00%
+ 121  Hylobates_moloch                              21.67%    passed    100.00%
+ 122  Sapajus_apella                                23.45%    passed    100.00%
+ 123  Mustela_erminea                               22.56%    passed    100.00%
+ 124  Phoca_vitulina                                20.78%    passed    100.00%
+ 125  Phocoena_sinus                                22.02%    passed    100.00%
+ 126  Lontra_canadensis                             22.56%    passed    100.00%
+ 127  Rhinolophus_ferrumequinum                     20.96%    passed    100.00%
+ 128  Trachypithecus_francoisi                      21.67%    passed    100.00%
+ 129  Arvicanthis_niloticus                         23.27%    passed    100.00%
+ 130  Mirounga_leonina                              20.78%    passed    100.00%
+ 131  Halichoerus_grypus                            20.78%    passed    100.00%
+ 132  Onychomys_torridus                            23.27%    passed    100.00%
+ 133  Molossus_molossus                             21.14%    passed    100.00%
+ 134  Myotis_myotis                                 20.78%    failed      0.08%
+ 135  Pipistrellus_kuhlii                           22.02%    passed     99.94%
+ 136  Trichosurus_vulpecula                         20.60%    passed     99.41%
+ 137  Balaenoptera_musculus                         28.06%    passed    100.00%
+ 138  Manis_pentadactyla                            20.78%    passed    100.00%
+ 139  Sturnira_hondurensis                          20.78%    passed    100.00%
+ 140  Artibeus_jamaicensis                          20.78%    passed    100.00%
+ 141  Talpa_occidentalis                            19.54%    failed      0.25%
+ 142  Choloepus_didactylus                          20.96%    passed    100.00%
+ 143  Arvicola_amphibius                            23.27%    passed    100.00%
+ 144  Tachyglossus_aculeatus                        27.71%    passed     84.22%
+ 145  Hyaena_hyaena                                 20.78%    passed    100.00%
+ 146  Pteropus_medius                               20.78%    passed    100.00%
+ 147  Oryx_dammah                                   23.27%    passed    100.00%
+ 148  Herpailurus_yagouaroundi                      20.78%    passed    100.00%
+ 149  Ursus_maritimus                               21.14%    passed    100.00%
+ 150  Ochotona_curzoniae                            23.27%    passed     99.99%
+ 151  Microtus_oregoni                              23.45%    passed    100.00%
+ 152  Vulpes_lagopus                                21.67%    passed    100.00%
+ 153  Dipodomys_spectabilis                         23.27%    passed    100.00%
+ 154  Panthera_leo                                  20.78%    passed    100.00%
+ 155  Cervus_canadensis                             23.27%    passed    100.00%
+ 156  Prionailurus_bengalensis                      20.78%    passed    100.00%
+ 157  Cervus_elaphus                                23.27%    passed    100.00%
+ 158  Dromiciops_gliroides                          20.60%    passed     98.66%
+ 159  Neogale_vison                                 22.56%    passed    100.00%
+ 160  Gracilinanus_agilis                           20.60%    passed     95.49%
+ 161  Leopardus_geoffroyi                           20.78%    passed    100.00%
+ 162  Lemur_catta                                   21.67%    passed    100.00%
+ 163  Ursus_americanus                              21.14%    passed    100.00%
+ 164  Phyllostomus_hastatus                         20.78%    passed    100.00%
+ 165  Mirounga_angustirostris                       20.78%    passed    100.00%
+ 166  Meles_meles                                   22.56%    passed    100.00%
+ 167  Marmota_monax                                 23.27%    passed    100.00%
+ 168  Equus_quagga                                  20.96%    passed    100.00%
+ 169  Lynx_rufus                                    20.78%    passed    100.00%
+ 170  Sciurus_carolinensis                          23.27%    passed    100.00%
+ 171  Lutra_lutra                                   22.56%    passed    100.00%
+ 172  Phacochoerus_africanus                        23.09%    passed    100.00%
+ 173  Prionailurus_viverrinus                       20.78%    passed    100.00%
+ 174  Perognathus_longimembris_pacificus            28.60%    passed    100.00%
+ 175  Myodes_glareolus                              23.27%    passed    100.00%
+ 176  Panthera_uncia                                20.78%    passed    100.00%
+ 177  Suncus_etruscus                               21.31%    passed     99.91%
+ 178  Elephas_maximus_indicus                       21.85%    passed    100.00%
+ 179  Alexandromys_fortis                           23.27%    passed    100.00%
+ 180  Macaca_thibetana_thibetana                    21.67%    passed    100.00%
+ 181  Acomys_russatus                               23.98%    passed    100.00%
+ 182  Phodopus_roborovskii                          28.42%    passed    100.00%
+ 183  Antechinus_flavipes                           20.60%    passed     99.70%
+ 184  Apodemus_sylvaticus                           23.62%    passed    100.00%
+ 185  Budorcas_taxicolor                            23.27%    passed    100.00%
+ 186  Peromyscus_californicus_insignis              23.27%    passed    100.00%
+ 187  Nycticebus_coucang                            21.85%    passed    100.00%
+ 188  Pongo_pygmaeus                                21.67%    passed    100.00%
+ 189  Pteronotus_mesoamericanus                     20.78%    passed    100.00%
+ 190  Symphalangus_syndactylus                      21.67%    passed    100.00%
+ 191  Nyctereutes_procyonoides                      21.67%    passed    100.00%
+ 192  Moschus_berezovskii                           23.27%    passed    100.00%
+ 193  Bubalus_kerabau                               23.27%    passed    100.00%
+ 194  Psammomys_obesus                              23.09%    passed    100.00%
+ 195  Sorex_fumeus                                  21.31%    passed     99.79%
+ 196  Hippopotamus_amphibius_kiboko                 23.09%    passed    100.00%
+ 197  Chionomys_nivalis                             23.27%    passed    100.00%
+ 198  Diceros_bicornis_minor                        20.96%    passed    100.00%
+ 199  Neofelis_nebulosa                             20.78%    passed    100.00%
+ 200  Kogia_breviceps                               23.09%    passed    100.00%
+ 201  Mustela_lutreola                              22.56%    passed    100.00%
+ 202  Peromyscus_eremicus                           23.27%    passed    100.00%
+ 203  Mustela_nigripes                              22.56%    passed    100.00%
+ 204  Myotis_daubentonii                            22.02%    passed    100.00%
+ 205  Balaenoptera_ricei                            23.09%    passed    100.00%
+ 206  Delphinus_delphis                             22.02%    passed    100.00%
+ 207  Mesoplodon_densirostris                       23.09%    passed    100.00%
+ 208  Lagenorhynchus_albirostris                    22.02%    passed    100.00%
+ 209  Panthera_onca                                 20.78%    passed    100.00%
+ 210  Dama_dama                                     23.27%    passed    100.00%
+ 211  Eubalaena_glacialis                           23.09%    passed    100.00%
+ 212  Bos_javanicus                                 23.62%    passed    100.00%
+ 213  Lepus_europaeus                               23.27%    passed    100.00%
+ 214  Cynocephalus_volans                           22.02%    passed    100.00%
+ 215  Phocoena_phocoena                             22.02%    passed    100.00%
+ 216  Muntiacus_reevesi                             23.27%    passed    100.00%
+ 217  Saccopteryx_bilineata                         20.96%    passed    100.00%
+ 218  Saccopteryx_leptura                           20.96%    passed    100.00%
+ 219  Pseudorca_crassidens                          22.02%    passed    100.00%
+ 220  Eschrichtius_robustus                         23.09%    passed    100.00%
+ 221  Capricornis_sumatraensis                      23.27%    passed    100.00%
+ 222  Petaurus_breviceps_papuanus                   20.60%    passed     99.39%
+ 223  Eulemur_rufifrons                             21.67%    passed    100.00%
+ 224  Ovis_canadensis                               23.27%    passed    100.00%
+ 225  Dipodomys_merriami                            23.27%    passed    100.00%
+ 226  Myotis_yumanensis                             20.43%    failed      0.09%
+ 227  Notamacropus_eugenii                          20.78%    passed     99.54%
+ 228  Canis_lupus_baileyi                           21.67%    passed    100.00%
+ 229  Sminthopsis_crassicaudata                     20.60%    passed     99.52%
+ 230  Tenrec_ecaudatus                              21.49%    passed    100.00%
+ 231  Microtus_pennsylvanicus                       23.27%    passed    100.00%
+ 232  Callospermophilus_lateralis                   23.27%    passed    100.00%
+ 233  Tamandua_tetradactyla                         20.96%    passed    100.00%
+ 234  Crocuta_crocuta                               20.78%    passed    100.00%
+ 235  Canis_aureus                                  21.67%    passed    100.00%
+ 236  Giraffa_tippelskirchi                         23.27%    passed    100.00%
+ 237  Bos_grunniens                                 23.62%    passed    100.00%
+ 238  Sciurus_vulgaris                              23.27%    passed    100.00%
+ 239  Hyperoodon_ampullatus                         23.45%    passed    100.00%
+ 240  Cnephaeus_nilssonii                           26.82%    passed     99.99%
+ 241  Stenella_coeruleoalba                         22.02%    passed    100.00%
+ 242  Plecotus_auritus                              20.43%    failed      0.10%
+ 243  Muscardinus_avellanarius                      24.16%    passed    100.00%
+ 244  Martes_martes                                 22.56%    passed    100.00%
+ 245  Micromys_minutus                              23.27%    passed    100.00%
+ 246  Rhinolophus_hipposideros                      20.96%    passed    100.00%
+ 247  Myotis_nattereri                              22.02%    passed    100.00%
+ 248  Miniopterus_schreibersii                      20.78%    passed    100.00%
+ 249  Mesoplodon_bidens                             23.09%    passed    100.00%
+ 250  Spermophilus_citellus                         23.62%    passed    100.00%
+ 251  Balaenoptera_borealis                         23.09%    passed    100.00%
+ 252  Balaenoptera_physalus                         23.09%    passed    100.00%
+ 253  Mesoplodon_mirus                              23.09%    passed    100.00%
+ 254  Grampus_griseus                               22.02%    passed    100.00%
+ 255  Mustela_nivalis                               22.56%    passed    100.00%
+ 256  Leucopleurus_acutus                           22.02%    passed    100.00%
+ 257  Talpa_europaea                                20.78%    passed    100.00%
+ 258  Acomys_minous                                 23.27%    passed    100.00%
+ 259  Pipistrellus_hanaki                           21.49%    passed     99.90%
+****  TOTAL                                         22.33%  6 sequences failed composition chi2 test (p-value<5%; df=19)
+WARNING: States(s) W rarely appear in alignment and may cause numerical problems
+Reading input tree file /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/phylo_protein/mapt_2N4R_constrained.treefile ...
+
+NOTE: 63 MB RAM (0 GB) is required!
+Estimate model parameters (epsilon = 0.010)
+1. Initial log-likelihood: -10038.255
+2. Current log-likelihood: -9905.795
+3. Current log-likelihood: -9893.785
+4. Current log-likelihood: -9887.418
+5. Current log-likelihood: -9883.964
+6. Current log-likelihood: -9881.840
+7. Current log-likelihood: -9880.554
+8. Current log-likelihood: -9879.679
+9. Current log-likelihood: -9879.017
+10. Current log-likelihood: -9878.482
+11. Current log-likelihood: -9878.035
+12. Current log-likelihood: -9877.655
+13. Current log-likelihood: -9877.327
+14. Current log-likelihood: -9877.043
+15. Current log-likelihood: -9876.795
+16. Current log-likelihood: -9876.576
+17. Current log-likelihood: -9876.383
+18. Current log-likelihood: -9876.211
+19. Current log-likelihood: -9876.058
+20. Current log-likelihood: -9875.920
+21. Current log-likelihood: -9875.796
+22. Current log-likelihood: -9875.684
+23. Current log-likelihood: -9875.582
+24. Current log-likelihood: -9875.501
+25. Current log-likelihood: -9875.425
+26. Current log-likelihood: -9875.354
+27. Current log-likelihood: -9875.289
+28. Current log-likelihood: -9875.228
+29. Current log-likelihood: -9875.172
+30. Current log-likelihood: -9875.120
+31. Current log-likelihood: -9875.071
+32. Current log-likelihood: -9875.026
+33. Current log-likelihood: -9874.983
+34. Current log-likelihood: -9874.943
+35. Current log-likelihood: -9874.907
+36. Current log-likelihood: -9874.873
+37. Current log-likelihood: -9874.841
+38. Current log-likelihood: -9874.811
+39. Current log-likelihood: -9874.784
+40. Current log-likelihood: -9874.759
+41. Current log-likelihood: -9874.743
+42. Current log-likelihood: -9874.717
+43. Current log-likelihood: -9874.702
+44. Current log-likelihood: -9874.679
+45. Current log-likelihood: -9874.665
+46. Current log-likelihood: -9874.652
+47. Current log-likelihood: -9874.638
+48. Current log-likelihood: -9874.625
+49. Current log-likelihood: -9874.613
+50. Current log-likelihood: -9874.601
+51. Current log-likelihood: -9874.590
+52. Current log-likelihood: -9874.579
+53. Current log-likelihood: -9874.568
+Optimal log-likelihood: -9874.552
+Site proportion and rates:  (0.531,0.096) (0.233,0.600) (0.177,2.512) (0.058,6.254)
+Parameters optimization took 53 rounds (75.969 sec)
+BEST SCORE FOUND : -9874.552
+Ancestral state probabilities printed to /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr.state
+Total tree length: 3.817
+
+Total number of iterations: 0
+CPU time used for tree search: 0.000 sec (0h:0m:0s)
+Wall-clock time used for tree search: 0.000 sec (0h:0m:0s)
+Total CPU time used: 306.683 sec (0h:5m:6s)
+Total wall-clock time used: 76.841 sec (0h:1m:16s)
+
+Analysis results written to: 
+  IQ-TREE report:                /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr.iqtree
+  Maximum-likelihood tree:       /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr.treefile
+  Ancestral state:               /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr.state
+  Screen log file:               /home/aleman/papers/mapt/fosforilación_tau_2026/repo_tau/results/asr/asr.log
+
+Date and Time: Fri Oct 23 15:58:57 2026

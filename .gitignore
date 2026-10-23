@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+results/phylo_protein/*.ckp.gz
+results/asr/*.ckp.gz
+results/phylo.log

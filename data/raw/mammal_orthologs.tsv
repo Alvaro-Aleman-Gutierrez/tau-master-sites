@@ -1,0 +1,268 @@
+taxid	species	superorder	order	family	gene_id	n_proteins	n_transcripts
+38775	Antechinus flavipes		Dasyuromorphia	Dasyuridae	127560384	10	10
+9305	Sarcophilus harrisii		Dasyuromorphia	Dasyuridae	100920214	18	19
+9301	Sminthopsis crassicaudata		Dasyuromorphia	Dasyuridae	141538932	17	18
+191870	Gracilinanus agilis		Didelphimorphia	Didelphidae	123247918	4	4
+13616	Monodelphis domestica		Didelphimorphia	Didelphidae	100025077	5	5
+9315	Notamacropus eugenii		Diprotodontia	Macropodidae	140528249	3	3
+3040969	Petaurus breviceps papuanus		Diprotodontia	Petauridae	138152436	5	5
+38626	Phascolarctos cinereus		Diprotodontia	Phascolarctidae	110215713	1	1
+9337	Trichosurus vulpecula		Diprotodontia	Phalangeridae	118846107	12	12
+29139	Vombatus ursinus		Diprotodontia	Vombatidae	114051078	4	4
+33562	Dromiciops gliroides		Microbiotheria	Microbiotheriidae	122754283	12	12
+9258	Ornithorhynchus anatinus		Monotremata	Ornithorhynchidae	100088033	3	3
+9261	Tachyglossus aculeatus		Monotremata	Tachyglossidae	119934935	8	8
+92651	Macrotis lagotis		Peramelemorphia	Peramelidae	141514001	1	1
+185453	Chrysochloris asiatica	Afrotheria	Afrosoricida	Chrysochloridae	102826935	8	8
+9371	Echinops telfairi	Afrotheria	Afrosoricida	Tenrecidae	101649733	1	1
+94439	Tenrec ecaudatus	Afrotheria	Afrosoricida	Tenrecidae	142458369	2	2
+28737	Elephantulus edwardii	Afrotheria	Macroscelidea	Macroscelididae	102856271	1	1
+99487	Elephas maximus indicus	Afrotheria	Proboscidea	Elephantidae	126063307	16	16
+9785	Loxodonta africana	Afrotheria	Proboscidea	Elephantidae	100663624	1	1
+127582	Trichechus manatus latirostris	Afrotheria	Sirenia	Trichechidae	101360746	8	8
+1230840	Orycteropus afer afer	Afrotheria	Tubulidentata	Orycteropodidae	103213973	1	1
+110931	Cynocephalus volans	Euarchontoglires	Dermoptera	Cynocephalidae	134365133	8	8
+482537	Galeopterus variegatus	Euarchontoglires	Dermoptera	Cynocephalidae	103598652	1	1
+9983	Lepus europaeus	Euarchontoglires	Lagomorpha	Leporidae	133776649	17	17
+130825	Ochotona curzoniae	Euarchontoglires	Lagomorpha	Ochotonidae	121162331	5	5
+9978	Ochotona princeps	Euarchontoglires	Lagomorpha	Ochotonidae	101520785	23	23
+9986	Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	Leporidae	100344003	33	34
+37293	Aotus nancymaae	Euarchontoglires	Primates	Aotidae	105711196	9	9
+9483	Callithrix jacchus	Euarchontoglires	Primates	Cebidae	100403309	21	21
+2715852	Cebus imitator	Euarchontoglires	Primates	Cebidae	108318302	11	11
+9531	Cercocebus atys	Euarchontoglires	Primates	Cercopithecidae	105585777	8	8
+60711	Chlorocebus sabaeus	Euarchontoglires	Primates	Cercopithecidae	103243264	13	13
+336983	Colobus angolensis palliatus	Euarchontoglires	Primates	Cercopithecidae	105520290	1	1
+859984	Eulemur rufifrons	Euarchontoglires	Primates	Lemuridae	138392184	11	11
+9595	Gorilla gorilla gorilla	Euarchontoglires	Primates	Hominidae	101142624	8	8
+9606	Homo sapiens	Euarchontoglires	Primates	Hominidae	4137	67	68
+81572	Hylobates moloch	Euarchontoglires	Primates	Hylobatidae	116475002	7	7
+9447	Lemur catta	Euarchontoglires	Primates	Lemuridae	123620566	15	15
+9541	Macaca fascicularis	Euarchontoglires	Primates	Cercopithecidae	102119414	50	50
+9544	Macaca mulatta	Euarchontoglires	Primates	Cercopithecidae	574327	46	46
+9545	Macaca nemestrina	Euarchontoglires	Primates	Cercopithecidae	105468425	18	18
+257877	Macaca thibetana thibetana	Euarchontoglires	Primates	Cercopithecidae	126938919	19	19
+9568	Mandrillus leucophaeus	Euarchontoglires	Primates	Cercopithecidae	105555143	8	8
+30608	Microcebus murinus	Euarchontoglires	Primates	Cheirogaleidae	105863664	9	9
+61853	Nomascus leucogenys	Euarchontoglires	Primates	Hylobatidae	100601409	7	7
+9470	Nycticebus coucang	Euarchontoglires	Primates	Lorisidae	128569605	14	14
+30611	Otolemur garnettii	Euarchontoglires	Primates	Galagidae	100951532	8	8
+9597	Pan paniscus	Euarchontoglires	Primates	Hominidae	100987023	5	5
+9598	Pan troglodytes	Euarchontoglires	Primates	Hominidae	450177	13	13
+9555	Papio anubis	Euarchontoglires	Primates	Cercopithecidae	101004302	19	19
+591936	Piliocolobus tephrosceles	Euarchontoglires	Primates	Cercopithecidae	111529278	8	8
+9601	Pongo abelii	Euarchontoglires	Primates	Hominidae	100432958	2	2
+9600	Pongo pygmaeus	Euarchontoglires	Primates	Hominidae	129017902	8	8
+379532	Propithecus coquereli	Euarchontoglires	Primates	Indriidae	105819080	6	6
+61621	Rhinopithecus bieti	Euarchontoglires	Primates	Cercopithecidae	108529371	21	21
+61622	Rhinopithecus roxellana	Euarchontoglires	Primates	Cercopithecidae	104682393	19	19
+27679	Saimiri boliviensis	Euarchontoglires	Primates	Cebidae	101029753	5	5
+9515	Sapajus apella	Euarchontoglires	Primates	Cebidae	116541646	11	11
+9590	Symphalangus syndactylus	Euarchontoglires	Primates	Hylobatidae	129470170	12	12
+9565	Theropithecus gelada	Euarchontoglires	Primates	Cercopithecidae	112609254	28	28
+54180	Trachypithecus francoisi	Euarchontoglires	Primates	Cercopithecidae	117087581	23	23
+83528	Acomys minous	Euarchontoglires	Rodentia	Muridae	311579444	24	24
+60746	Acomys russatus	Euarchontoglires	Rodentia	Muridae	127200521	1	1
+100897	Alexandromys fortis	Euarchontoglires	Rodentia	Cricetidae	126487542	24	24
+10129	Apodemus sylvaticus	Euarchontoglires	Rodentia	Muridae	127695236	10	10
+61156	Arvicanthis niloticus	Euarchontoglires	Rodentia	Muridae	117710422	29	29
+1047088	Arvicola amphibius	Euarchontoglires	Rodentia	Cricetidae	119812136	8	8
+76772	Callospermophilus lateralis	Euarchontoglires	Rodentia	Sciuridae	143409241	9	9
+51338	Castor canadensis	Euarchontoglires	Rodentia	Castoridae	109684813	23	23
+10141	Cavia porcellus	Euarchontoglires	Rodentia	Caviidae	100735442	10	10
+34839	Chinchilla lanigera	Euarchontoglires	Rodentia	Chinchillidae	102013826	13	13
+269649	Chionomys nivalis	Euarchontoglires	Rodentia	Cricetidae	130877567	7	7
+94247	Dipodomys merriami	Euarchontoglires	Rodentia	Heteromyidae	138830850	15	15
+10020	Dipodomys ordii	Euarchontoglires	Rodentia	Heteromyidae	105998555	9	9
+105255	Dipodomys spectabilis	Euarchontoglires	Rodentia	Heteromyidae	122103501	8	8
+885580	Fukomys damarensis	Euarchontoglires	Rodentia	Bathyergidae	104871535	15	15
+491861	Grammomys surdaster	Euarchontoglires	Rodentia	Muridae	114632116	2	2
+10181	Heterocephalus glaber	Euarchontoglires	Rodentia	Bathyergidae	101719489	30	30
+43179	Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	Sciuridae	101962404	16	17
+51337	Jaculus jaculus	Euarchontoglires	Rodentia	Dipodidae	101616209	4	4
+93162	Marmota flaviventris	Euarchontoglires	Rodentia	Sciuridae	114080195	8	8
+9994	Marmota marmota marmota	Euarchontoglires	Rodentia	Sciuridae	107160525	17	17
+9995	Marmota monax	Euarchontoglires	Rodentia	Sciuridae	124076978	14	14
+35658	Mastomys coucha	Euarchontoglires	Rodentia	Muridae	116076902	4	4
+10047	Meriones unguiculatus	Euarchontoglires	Rodentia	Muridae	110545637	23	23
+10036	Mesocricetus auratus	Euarchontoglires	Rodentia	Cricetidae	101828445	21	21
+13151	Micromys minutus	Euarchontoglires	Rodentia	Muridae	308426491	18	18
+79684	Microtus ochrogaster	Euarchontoglires	Rodentia	Cricetidae	102001153	12	12
+111838	Microtus oregoni	Euarchontoglires	Rodentia	Cricetidae	121435969	13	13
+10058	Microtus pennsylvanicus	Euarchontoglires	Rodentia	Cricetidae	142859901	33	33
+10089	Mus caroli	Euarchontoglires	Rodentia	Muridae	110304807	27	27
+10090	Mus musculus	Euarchontoglires	Rodentia	Muridae	17762	47	49
+10093	Mus pahari	Euarchontoglires	Rodentia	Muridae	110331493	20	20
+39082	Muscardinus avellanarius	Euarchontoglires	Rodentia	Gliridae	308275449	2	2
+447135	Myodes glareolus	Euarchontoglires	Rodentia	Cricetidae	125407968	33	33
+1026970	Nannospalax galili	Euarchontoglires	Rodentia	Spalacidae	103724766	10	10
+10160	Octodon degus	Euarchontoglires	Rodentia	Octodontidae	101578621	19	19
+38674	Onychomys torridus	Euarchontoglires	Rodentia	Cricetidae	118588819	4	4
+214514	Perognathus longimembris pacificus	Euarchontoglires	Rodentia	Heteromyidae	125366515	1	1
+564181	Peromyscus californicus insignis	Euarchontoglires	Rodentia	Cricetidae	128123358	3	3
+42410	Peromyscus eremicus	Euarchontoglires	Rodentia	Cricetidae	131917829	3	3
+10041	Peromyscus leucopus	Euarchontoglires	Rodentia	Cricetidae	114702276	13	13
+230844	Peromyscus maniculatus bairdii	Euarchontoglires	Rodentia	Cricetidae	102907979	14	14
+109678	Phodopus roborovskii	Euarchontoglires	Rodentia	Cricetidae	127217676	4	4
+48139	Psammomys obesus	Euarchontoglires	Rodentia	Muridae	129665565	7	7
+10116	Rattus norvegicus	Euarchontoglires	Rodentia	Muridae	29477	49	49
+30640	Sciurus carolinensis	Euarchontoglires	Rodentia	Sciuridae	124980973	13	13
+55149	Sciurus vulgaris	Euarchontoglires	Rodentia	Sciuridae	306658210	12	12
+9997	Spermophilus citellus	Euarchontoglires	Rodentia	Sciuridae	308636199	27	27
+9999	Urocitellus parryii	Euarchontoglires	Rodentia	Sciuridae	113196342	18	18
+246437	Tupaia belangeri chinensis	Euarchontoglires	Scandentia	Tupaiidae	102487338	1	1
+3371155	Aethalodelphis obliquidens	Laurasiatheria	Artiodactyla	Delphinidae	113606674	12	12
+9767	Balaenoptera acutorostrata	Laurasiatheria	Artiodactyla	Balaenopteridae	103009499	12	12
+9768	Balaenoptera borealis	Laurasiatheria	Artiodactyla	Balaenopteridae	309619063	25	25
+9771	Balaenoptera musculus	Laurasiatheria	Artiodactyla	Balaenopteridae	118886713	1	1
+9770	Balaenoptera physalus	Laurasiatheria	Artiodactyla	Balaenopteridae	309650973	20	20
+2746895	Balaenoptera ricei	Laurasiatheria	Artiodactyla	Balaenopteridae	132356120	18	18
+43346	Bison bison bison	Laurasiatheria	Artiodactyla	Bovidae	104982950	12	12
+30521	Bos grunniens	Laurasiatheria	Artiodactyla	Bovidae	147351405	47	47
+9915	Bos indicus	Laurasiatheria	Artiodactyla	Bovidae	109573661	19	19
+30522	Bos indicus x Bos taurus	Laurasiatheria	Artiodactyla	Bovidae	113877388	19	19
+9906	Bos javanicus	Laurasiatheria	Artiodactyla	Bovidae	133232599	22	22
+72004	Bos mutus	Laurasiatheria	Artiodactyla	Bovidae	102270620	14	14
+9913	Bos taurus	Laurasiatheria	Artiodactyla	Bovidae	281296	1	1
+89462	Bubalus bubalis	Laurasiatheria	Artiodactyla	Bovidae	102415365	12	12
+3119969	Bubalus kerabau	Laurasiatheria	Artiodactyla	Bovidae	129648870	14	14
+37181	Budorcas taxicolor	Laurasiatheria	Artiodactyla	Bovidae	128064960	10	10
+9837	Camelus bactrianus	Laurasiatheria	Artiodactyla	Camelidae	105071480	16	16
+9838	Camelus dromedarius	Laurasiatheria	Artiodactyla	Camelidae	105090432	3	3
+419612	Camelus ferus	Laurasiatheria	Artiodactyla	Camelidae	102508974	20	20
+9925	Capra hircus	Laurasiatheria	Artiodactyla	Bovidae	100860820	20	20
+34865	Capricornis sumatraensis	Laurasiatheria	Artiodactyla	Bovidae	138083113	10	10
+1574408	Cervus canadensis	Laurasiatheria	Artiodactyla	Cervidae	122440039	15	15
+9860	Cervus elaphus	Laurasiatheria	Artiodactyla	Cervidae	122695259	15	15
+30532	Dama dama	Laurasiatheria	Artiodactyla	Cervidae	133057599	3	3
+9749	Delphinapterus leucas	Laurasiatheria	Artiodactyla	Monodontidae	111182584	9	9
+9728	Delphinus delphis	Laurasiatheria	Artiodactyla	Delphinidae	132415184	7	7
+9764	Eschrichtius robustus	Laurasiatheria	Artiodactyla	Eschrichtiidae	137755122	1	1
+27606	Eubalaena glacialis	Laurasiatheria	Artiodactyla	Balaenidae	133079304	8	8
+439328	Giraffa tippelskirchi	Laurasiatheria	Artiodactyla	Giraffidae	145541082	27	27
+83653	Grampus griseus	Laurasiatheria	Artiodactyla	Delphinidae	309837757	10	10
+575201	Hippopotamus amphibius kiboko	Laurasiatheria	Artiodactyla	Hippopotamidae	130840751	21	21
+48744	Hyperoodon ampullatus	Laurasiatheria	Artiodactyla	Ziphiidae	307067496	5	5
+27615	Kogia breviceps	Laurasiatheria	Artiodactyla	Physeteridae	131746938	25	25
+27610	Lagenorhynchus albirostris	Laurasiatheria	Artiodactyla	Delphinidae	132511585	18	18
+3371109	Leucopleurus acutus	Laurasiatheria	Artiodactyla	Delphinidae	309974967	22	22
+118797	Lipotes vexillifer	Laurasiatheria	Artiodactyla	Lipotidae	103090402	8	8
+48745	Mesoplodon bidens	Laurasiatheria	Artiodactyla	Ziphiidae	308606793	10	10
+48708	Mesoplodon densirostris	Laurasiatheria	Artiodactyla	Ziphiidae	132478030	8	8
+52113	Mesoplodon mirus	Laurasiatheria	Artiodactyla	Ziphiidae	309793139	10	10
+40151	Monodon monoceros	Laurasiatheria	Artiodactyla	Monodontidae	114888899	3	3
+68408	Moschus berezovskii	Laurasiatheria	Artiodactyla	Moschidae	129544523	3	3
+9886	Muntiacus reevesi	Laurasiatheria	Artiodactyla	Cervidae	136149212	13	13
+1706337	Neophocaena asiaeorientalis asiaeorientalis	Laurasiatheria	Artiodactyla	Phocoenidae	112410117	8	8
+9874	Odocoileus virginianus	Laurasiatheria	Artiodactyla	Cervidae	110129709	19	21
+9733	Orcinus orca	Laurasiatheria	Artiodactyla	Delphinidae	101276955	16	16
+59534	Oryx dammah	Laurasiatheria	Artiodactyla	Bovidae	120866971	14	14
+9940	Ovis aries	Laurasiatheria	Artiodactyla	Bovidae	101121024	18	18
+37174	Ovis canadensis	Laurasiatheria	Artiodactyla	Bovidae	138414371	21	21
+41426	Phacochoerus africanus	Laurasiatheria	Artiodactyla	Suidae	125114191	16	16
+9742	Phocoena phocoena	Laurasiatheria	Artiodactyla	Phocoenidae	136139025	10	10
+42100	Phocoena sinus	Laurasiatheria	Artiodactyla	Phocoenidae	116744941	8	8
+9755	Physeter macrocephalus	Laurasiatheria	Artiodactyla	Physeteridae	102996376	2	2
+82174	Pseudorca crassidens	Laurasiatheria	Artiodactyla	Delphinidae	137211804	15	15
+9737	Stenella coeruleoalba	Laurasiatheria	Artiodactyla	Delphinidae	307178117	5	5
+9823	Sus scrofa	Laurasiatheria	Artiodactyla	Suidae	100738351	23	23
+9739	Tursiops truncatus	Laurasiatheria	Artiodactyla	Delphinidae	101316062	14	14
+30538	Vicugna pacos	Laurasiatheria	Artiodactyla	Camelidae	102528315	14	14
+32536	Acinonyx jubatus	Laurasiatheria	Carnivora	Felidae	106988843	18	18
+9646	Ailuropoda melanoleuca	Laurasiatheria	Carnivora	Ursidae	100476507	1	1
+34884	Callorhinus ursinus	Laurasiatheria	Carnivora	Otariidae	112837623	17	17
+68724	Canis aureus	Laurasiatheria	Carnivora	Canidae	144286891	20	20
+143281	Canis lupus baileyi	Laurasiatheria	Carnivora	Canidae	140607029	23	23
+286419	Canis lupus dingo	Laurasiatheria	Carnivora	Canidae	112653038	22	22
+9615	Canis lupus familiaris	Laurasiatheria	Carnivora	Canidae	480488	18	18
+9678	Crocuta crocuta	Laurasiatheria	Carnivora	Hyaenidae	144245005	5	5
+391180	Enhydra lutris kenyoni	Laurasiatheria	Carnivora	Mustelidae	111158157	1	1
+34886	Eumetopias jubatus	Laurasiatheria	Carnivora	Otariidae	114196731	1	1
+9685	Felis catus	Laurasiatheria	Carnivora	Felidae	101089557	20	20
+9711	Halichoerus grypus	Laurasiatheria	Carnivora	Phocidae	118542685	10	10
+1608482	Herpailurus yagouaroundi	Laurasiatheria	Carnivora	Felidae	121020155	15	15
+95912	Hyaena hyaena	Laurasiatheria	Carnivora	Hyaenidae	120244270	5	5
+46844	Leopardus geoffroyi	Laurasiatheria	Carnivora	Felidae	123603878	17	17
+9713	Leptonychotes weddellii	Laurasiatheria	Carnivora	Phocidae	102736771	13	13
+76717	Lontra canadensis	Laurasiatheria	Carnivora	Mustelidae	116875434	15	15
+9657	Lutra lutra	Laurasiatheria	Carnivora	Mustelidae	125086936	18	18
+61383	Lynx canadensis	Laurasiatheria	Carnivora	Felidae	115501135	12	12
+61384	Lynx rufus	Laurasiatheria	Carnivora	Felidae	124513561	5	5
+29065	Martes martes	Laurasiatheria	Carnivora	Mustelidae	308357096	3	3
+9662	Meles meles	Laurasiatheria	Carnivora	Mustelidae	123929205	10	10
+9716	Mirounga angustirostris	Laurasiatheria	Carnivora	Phocidae	123853899	19	19
+9715	Mirounga leonina	Laurasiatheria	Carnivora	Phocidae	118027177	15	15
+36723	Mustela erminea	Laurasiatheria	Carnivora	Mustelidae	116577580	29	30
+9666	Mustela lutreola	Laurasiatheria	Carnivora	Mustelidae	131815906	20	20
+77151	Mustela nigripes	Laurasiatheria	Carnivora	Mustelidae	132003666	12	12
+36239	Mustela nivalis	Laurasiatheria	Carnivora	Mustelidae	309851341	24	24
+9669	Mustela putorius furo	Laurasiatheria	Carnivora	Mustelidae	101679947	30	30
+61452	Neofelis nebulosa	Laurasiatheria	Carnivora	Felidae	131498561	18	18
+452646	Neogale vison	Laurasiatheria	Carnivora	Mustelidae	122906106	10	10
+29088	Neomonachus schauinslandi	Laurasiatheria	Carnivora	Phocidae	110570453	4	4
+34880	Nyctereutes procyonoides	Laurasiatheria	Carnivora	Canidae	129507366	21	21
+9708	Odobenus rosmarus divergens	Laurasiatheria	Carnivora	Odobenidae	101371518	8	8
+9689	Panthera leo	Laurasiatheria	Carnivora	Felidae	122206734	1	1
+9690	Panthera onca	Laurasiatheria	Carnivora	Felidae	132687501	19	19
+9691	Panthera pardus	Laurasiatheria	Carnivora	Felidae	109259745	18	18
+9694	Panthera tigris	Laurasiatheria	Carnivora	Felidae	102967519	1	1
+29064	Panthera uncia	Laurasiatheria	Carnivora	Felidae	125927337	7	7
+9720	Phoca vitulina	Laurasiatheria	Carnivora	Phocidae	116647851	9	9
+37029	Prionailurus bengalensis	Laurasiatheria	Carnivora	Felidae	122485735	17	17
+61388	Prionailurus viverrinus	Laurasiatheria	Carnivora	Felidae	125151859	5	5
+9696	Puma concolor	Laurasiatheria	Carnivora	Felidae	112862026	17	17
+37032	Suricata suricatta	Laurasiatheria	Carnivora	Herpestidae	115281979	3	3
+9643	Ursus americanus	Laurasiatheria	Carnivora	Ursidae	123803222	26	26
+9644	Ursus arctos	Laurasiatheria	Carnivora	Ursidae	113265313	31	31
+29073	Ursus maritimus	Laurasiatheria	Carnivora	Ursidae	121104977	9	9
+494514	Vulpes lagopus	Laurasiatheria	Carnivora	Canidae	121472963	14	14
+9627	Vulpes vulpes	Laurasiatheria	Carnivora	Canidae	112920687	15	15
+9704	Zalophus californianus	Laurasiatheria	Carnivora	Otariidae	113939784	17	17
+9417	Artibeus jamaicensis	Laurasiatheria	Chiroptera	Phyllostomidae	119062588	13	13
+3371016	Cnephaeus nilssonii	Laurasiatheria	Chiroptera	Vespertilionidae	307115065	1	1
+9430	Desmodus rotundus	Laurasiatheria	Chiroptera	Phyllostomidae	112316173	17	17
+29078	Eptesicus fuscus	Laurasiatheria	Chiroptera	Vespertilionidae	103293163	3	3
+186990	Hipposideros armiger	Laurasiatheria	Chiroptera	Hipposideridae	109380299	15	15
+291302	Miniopterus natalensis	Laurasiatheria	Chiroptera	Miniopteridae	107530997	13	13
+9433	Miniopterus schreibersii	Laurasiatheria	Chiroptera	Miniopteridae	308569230	25	25
+27622	Molossus molossus	Laurasiatheria	Chiroptera	Molossidae	118634096	12	12
+109478	Myotis brandtii	Laurasiatheria	Chiroptera	Vespertilionidae	102260052	9	9
+98922	Myotis daubentonii	Laurasiatheria	Chiroptera	Vespertilionidae	132218542	16	16
+225400	Myotis davidii	Laurasiatheria	Chiroptera	Vespertilionidae	102757836	13	13
+59463	Myotis lucifugus	Laurasiatheria	Chiroptera	Vespertilionidae	102424304	19	19
+51298	Myotis myotis	Laurasiatheria	Chiroptera	Vespertilionidae	118671627	23	23
+109481	Myotis nattereri	Laurasiatheria	Chiroptera	Vespertilionidae	308531942	9	9
+159337	Myotis yumanensis	Laurasiatheria	Chiroptera	Vespertilionidae	138994739	11	11
+89673	Phyllostomus discolor	Laurasiatheria	Chiroptera	Phyllostomidae	114503143	18	18
+9423	Phyllostomus hastatus	Laurasiatheria	Chiroptera	Phyllostomidae	123816832	12	12
+412090	Pipistrellus hanaki	Laurasiatheria	Chiroptera	Vespertilionidae	311610441	20	20
+59472	Pipistrellus kuhlii	Laurasiatheria	Chiroptera	Vespertilionidae	118726361	18	18
+61862	Plecotus auritus	Laurasiatheria	Chiroptera	Vespertilionidae	308254546	23	23
+1884717	Pteronotus mesoamericanus	Laurasiatheria	Chiroptera	Mormoopidae	129071577	10	10
+9402	Pteropus alecto	Laurasiatheria	Chiroptera	Pteropodidae	102878980	7	7
+143291	Pteropus medius	Laurasiatheria	Chiroptera	Pteropodidae	120589267	13	13
+132908	Pteropus vampyrus	Laurasiatheria	Chiroptera	Pteropodidae	105303449	5	5
+59479	Rhinolophus ferrumequinum	Laurasiatheria	Chiroptera	Rhinolophidae	117012835	17	17
+77218	Rhinolophus hipposideros	Laurasiatheria	Chiroptera	Rhinolophidae	308488565	14	14
+89399	Rhinolophus sinicus	Laurasiatheria	Chiroptera	Rhinolophidae	109448047	21	21
+9407	Rousettus aegyptiacus	Laurasiatheria	Chiroptera	Pteropodidae	107508176	14	14
+59482	Saccopteryx bilineata	Laurasiatheria	Chiroptera	Emballonuridae	136326557	17	17
+249018	Saccopteryx leptura	Laurasiatheria	Chiroptera	Emballonuridae	136391430	12	12
+192404	Sturnira hondurensis	Laurasiatheria	Chiroptera	Phyllostomidae	119003781	16	16
+143302	Condylura cristata	Laurasiatheria	Eulipotyphla	Talpidae	101628928	15	15
+42254	Sorex araneus	Laurasiatheria	Eulipotyphla	Soricidae	101559083	6	6
+62283	Sorex fumeus	Laurasiatheria	Eulipotyphla	Soricidae	130035870	3	3
+109475	Suncus etruscus	Laurasiatheria	Eulipotyphla	Soricidae	126020348	1	1
+9375	Talpa europaea	Laurasiatheria	Eulipotyphla	Talpidae	311173362	10	10
+50954	Talpa occidentalis	Laurasiatheria	Eulipotyphla	Talpidae	119232082	7	7
+73337	Ceratotherium simum simum	Laurasiatheria	Perissodactyla	Rhinocerotidae	101404209	2	2
+77932	Diceros bicornis minor	Laurasiatheria	Perissodactyla	Rhinocerotidae	131417618	2	2
+9793	Equus asinus	Laurasiatheria	Perissodactyla	Equidae	106836496	15	15
+9796	Equus caballus	Laurasiatheria	Perissodactyla	Equidae	100054638	21	21
+9798	Equus przewalskii	Laurasiatheria	Perissodactyla	Equidae	103552915	21	21
+89248	Equus quagga	Laurasiatheria	Perissodactyla	Equidae	124246642	10	10
+9974	Manis javanica	Laurasiatheria	Pholidota	Manidae	108398647	20	20
+143292	Manis pentadactyla	Laurasiatheria	Pholidota	Manidae	118919664	1	1
+9361	Dasypus novemcinctus	Xenarthra	Cingulata	Dasypodidae	101419371	7	7
+27675	Choloepus didactylus	Xenarthra	Pilosa	Megalonychidae	119513135	16	16
+48850	Tamandua tetradactyla	Xenarthra	Pilosa	Myrmecophagidae	143687249	13	13

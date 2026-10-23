@@ -1,0 +1,268 @@
+species	superorder	order	gene_id	protein	transcript	source	length	core_coverage	missing_core_exons	exclusion_reason	included
+Homo sapiens	Euarchontoglires	Primates	4137	NP_005901.2	NM_005910.6	anotada	441.0	0.99			True
+Mus musculus	Euarchontoglires	Rodentia	17762	NP_001033698.1	NM_001038609.3	anotada	430.0	0.96			True
+Rattus norvegicus	Euarchontoglires	Rodentia	29477	XP_008766499.1	XM_008768277.4	anotada	432.0	0.97			True
+Bos taurus	Laurasiatheria	Artiodactyla	281296	NP_776531.1	NM_174106.2	in_silico	448.0	0.97			True
+Pan troglodytes	Euarchontoglires	Primates	450177	XP_009430187.1	XM_009431912.4	anotada	441.0	0.99			True
+Canis lupus familiaris	Laurasiatheria	Carnivora	480488	XP_038530936.1	XM_038675008.1	anotada	441.0	0.99			True
+Macaca mulatta	Euarchontoglires	Primates	574327	XP_014975440.1	XM_015119954.3	anotada	441.0	0.99			True
+Monodelphis domestica		Didelphimorphia	100025077	XP_016286066.2	XM_016430580.3	anotada+recorte_Nter	446.0	0.95			True
+Equus caballus	Laurasiatheria	Perissodactyla	100054638	XP_001501631.1	XM_001501581.5	anotada	445.0	0.98			True
+Ornithorhynchus anatinus		Monotremata	100088033	XP_028931469.1	XM_029075636.1	anotada	440.0	0.95			True
+Oryctolagus cuniculus	Euarchontoglires	Lagomorpha	100344003	XP_051680986.1	XM_051825026.3	anotada	432.0	0.97			True
+Callithrix jacchus	Euarchontoglires	Primates	100403309	XP_035156156.1	XM_035300265.3	anotada	431.0	0.97			True
+Pongo abelii	Euarchontoglires	Primates	100432958	XP_002827443.1	XM_002827397.5	in_silico	441.0	0.99			True
+Ailuropoda melanoleuca	Laurasiatheria	Carnivora	100476507			excluida				sin isoforma con exones core completos editable en marco	False
+Nomascus leucogenys	Euarchontoglires	Primates	100601409	XP_030655807.1	XM_030799947.1	anotada	441.0	0.99			True
+Loxodonta africana	Afrotheria	Proboscidea	100663624	XP_064127056.1	XM_064270986.1	in_silico	440.0	0.97			True
+Cavia porcellus	Euarchontoglires	Rodentia	100735442	XP_013003801.2	XM_013148347.3	anotada	430.0	0.96			True
+Sus scrofa	Laurasiatheria	Artiodactyla	100738351	XP_020922475.1	XM_021066816.2	anotada	433.0	0.97			True
+Capra hircus	Laurasiatheria	Artiodactyla	100860820	XP_017920782.1	XM_018065293.1	anotada	432.0	0.97			True
+Sarcophilus harrisii		Dasyuromorphia	100920214	XP_023358232.2	XM_023502464.2	in_silico+recorte_Nter	447.0	0.96	E5		True
+Otolemur garnettii	Euarchontoglires	Primates	100951532	XP_012658389.1	XM_012802935.2	anotada	440.0	0.99			True
+Pan paniscus	Euarchontoglires	Primates	100987023	XP_014197462.1	XM_014341976.5	in_silico	441.0	0.99			True
+Papio anubis	Euarchontoglires	Primates	101004302	XP_009189181.1	XM_009190917.3	anotada	441.0	0.99			True
+Saimiri boliviensis	Euarchontoglires	Primates	101029753	XP_010328568.3	XM_010330266.3	anotada	431.0	0.97			True
+Felis catus	Laurasiatheria	Carnivora	101089557	XP_003997079.1	XM_003997030.6	anotada	446.0	0.99			True
+Ovis aries	Laurasiatheria	Artiodactyla	101121024	XP_027830182.1	XM_027974381.3	anotada	432.0	0.97			True
+Gorilla gorilla gorilla	Euarchontoglires	Primates	101142624	XP_055243791.1	XM_055387816.2	anotada	441.0	0.99			True
+Orcinus orca	Laurasiatheria	Artiodactyla	101276955	XP_004275727.1	XM_004275679.4	in_silico	439.0	0.97			True
+Tursiops truncatus	Laurasiatheria	Artiodactyla	101316062	XP_033704328.1	XM_033848437.2	in_silico	439.0	0.97			True
+Trichechus manatus latirostris	Afrotheria	Sirenia	101360746	XP_004374310.1	XM_004374253.1	anotada	440.0	0.97			True
+Odobenus rosmarus divergens	Laurasiatheria	Carnivora	101371518	XP_004411151.1	XM_004411094.1	anotada	446.0	0.99			True
+Ceratotherium simum simum	Laurasiatheria	Perissodactyla	101404209	XP_087297468.1	XM_087441342.1	in_silico	445.0	0.99			True
+Dasypus novemcinctus	Xenarthra	Cingulata	101419371	XP_058140439.1	XM_058284456.2	anotada	445.0	0.99			True
+Ochotona princeps	Euarchontoglires	Lagomorpha	101520785	XP_058531619.1	XM_058675636.1	anotada	432.0	0.97			True
+Sorex araneus	Laurasiatheria	Eulipotyphla	101559083	XP_054985810.1	XM_055129835.1	anotada	443.0	0.99			True
+Octodon degus	Euarchontoglires	Rodentia	101578621	XP_023569732.1	XM_023713964.1	anotada	431.0	0.97			True
+Jaculus jaculus	Euarchontoglires	Rodentia	101616209	XP_045014272.1	XM_045158337.1	in_silico	403.0	0.9	E3		True
+Condylura cristata	Laurasiatheria	Eulipotyphla	101628928	XP_004684111.1	XM_004684054.2	anotada	446.0	0.99			True
+Echinops telfairi	Afrotheria	Afrosoricida	101649733	XP_030743928.2	XM_030888068.2	in_silico	397.0	0.85	E2,E3		True
+Mustela putorius furo	Laurasiatheria	Carnivora	101679947	XP_012901366.1	XM_013045912.2	anotada	436.0	0.98			True
+Heterocephalus glaber	Euarchontoglires	Rodentia	101719489	XP_021103207.1	XM_021247548.2	anotada	432.0	0.97			True
+Mesocricetus auratus	Euarchontoglires	Rodentia	101828445	XP_040605813.1	XM_040749879.1	anotada	432.0	0.97			True
+Ictidomys tridecemlineatus	Euarchontoglires	Rodentia	101962404	XP_021584049.2	XM_021728374.3	anotada	430.0	0.96			True
+Microtus ochrogaster	Euarchontoglires	Rodentia	102001153	XP_005369453.1	XM_005369396.2	anotada	432.0	0.97			True
+Chinchilla lanigera	Euarchontoglires	Rodentia	102013826	XP_005402319.1	XM_005402262.1	anotada	431.0	0.97			True
+Macaca fascicularis	Euarchontoglires	Primates	102119414	XP_005584597.1	XM_005584540.4	anotada	441.0	0.99			True
+Myotis brandtii	Laurasiatheria	Chiroptera	102260052	XP_014387417.1	XM_014531931.1	anotada	441.0	0.98			True
+Bos mutus	Laurasiatheria	Artiodactyla	102270620	XP_005905407.1	XM_005905345.3	in_silico	430.0	0.96			True
+Bubalus bubalis	Laurasiatheria	Artiodactyla	102415365	XP_006060749.3	XM_006060687.3	in_silico	430.0	0.96			True
+Myotis lucifugus	Laurasiatheria	Chiroptera	102424304	XP_006092253.1	XM_006092191.3	anotada	441.0	0.98			True
+Tupaia belangeri chinensis	Euarchontoglires	Scandentia	102487338	XP_027631791.1	XM_027775990.1	in_silico	474.0	0.97			True
+Camelus ferus	Laurasiatheria	Artiodactyla	102508974	XP_006177424.1	XM_006177362.3	anotada	433.0	0.97			True
+Vicugna pacos	Laurasiatheria	Artiodactyla	102528315	XP_072795449.1	XM_072939348.1	anotada	433.0	0.97			True
+Leptonychotes weddellii	Laurasiatheria	Carnivora	102736771	XP_081660910.1	XM_081804784.1	anotada	446.0	0.99			True
+Myotis davidii	Laurasiatheria	Chiroptera	102757836			excluida				sin isoforma con exones core completos editable en marco	False
+Chrysochloris asiatica	Afrotheria	Afrosoricida	102826935	XP_006833604.1	XM_006833541.1	anotada	440.0	0.97			True
+Elephantulus edwardii	Afrotheria	Macroscelidea	102856271	XP_006897933.1	XM_006897871.1	in_silico	388.0	0.86			True
+Pteropus alecto	Laurasiatheria	Chiroptera	102878980	XP_024901416.1	XM_025045648.1	in_silico	446.0	0.99			True
+Peromyscus maniculatus bairdii	Euarchontoglires	Rodentia	102907979	XP_006970606.1	XM_006970544.4	anotada	432.0	0.97			True
+Panthera tigris	Laurasiatheria	Carnivora	102967519	XP_042822865.1	XM_042966931.1	in_silico	446.0	0.99			True
+Physeter macrocephalus	Laurasiatheria	Artiodactyla	102996376	XP_028353877.1	XM_028498076.2	in_silico	563.0	0.71	E1,E2,E3,E4	modelo génico incompleto (cobertura core 0.71)	False
+Balaenoptera acutorostrata	Laurasiatheria	Artiodactyla	103009499	XP_007175901.2	XM_007175839.2	anotada	433.0	0.97			True
+Lipotes vexillifer	Laurasiatheria	Artiodactyla	103090402	XP_007456789.1	XM_007456727.1	in_silico	439.0	0.97			True
+Orycteropus afer afer	Afrotheria	Tubulidentata	103213973	XP_007957952.1	XM_007959761.1	in_silico	440.0	0.97			True
+Chlorocebus sabaeus	Euarchontoglires	Primates	103243264	XP_008010449.1	XM_008012258.3	anotada	441.0	0.99			True
+Eptesicus fuscus	Laurasiatheria	Chiroptera	103293163	XP_054565291.1	XM_054709316.1	in_silico	441.0	0.98			True
+Equus przewalskii	Laurasiatheria	Perissodactyla	103552915	XP_070416375.1	XM_070560274.1	anotada	445.0	0.98			True
+Galeopterus variegatus	Euarchontoglires	Dermoptera	103598652	XP_008580911.1	XM_008582689.1	in_silico	313.0	0.71	E1,E2,E3,E4	modelo génico incompleto (cobertura core 0.71)	False
+Nannospalax galili	Euarchontoglires	Rodentia	103724766	XP_008820124.1	XM_008821902.3	anotada	432.0	0.97			True
+Rhinopithecus roxellana	Euarchontoglires	Primates	104682393	XP_010387327.1	XM_010389025.2	anotada	441.0	0.99			True
+Fukomys damarensis	Euarchontoglires	Rodentia	104871535	XP_010635771.1	XM_010637469.1	anotada	432.0	0.97			True
+Bison bison bison	Laurasiatheria	Artiodactyla	104982950	XP_010830689.1	XM_010832387.1	anotada	430.0	0.96			True
+Camelus bactrianus	Laurasiatheria	Artiodactyla	105071480	XP_074199525.1	XM_074343424.1	anotada	433.0	0.97			True
+Camelus dromedarius	Laurasiatheria	Artiodactyla	105090432	XP_064351775.1	XM_064495705.1	in_silico	404.0	0.9	E3		True
+Pteropus vampyrus	Laurasiatheria	Chiroptera	105303449	XP_011375394.1	XM_011377092.2	in_silico	388.0	0.86	E2,E3		True
+Macaca nemestrina	Euarchontoglires	Primates	105468425	XP_011716956.1	XM_011718654.3	anotada	441.0	0.99			True
+Colobus angolensis palliatus	Euarchontoglires	Primates	105520290	XP_011809308.1	XM_011953918.1	in_silico	284.0	0.54	E1,E2,E3,E4,E9	modelo génico incompleto (cobertura core 0.54)	False
+Mandrillus leucophaeus	Euarchontoglires	Primates	105555143	XP_011857331.1	XM_012001941.1	anotada	441.0	0.99			True
+Cercocebus atys	Euarchontoglires	Primates	105585777	XP_011915511.1	XM_012060121.1	anotada	441.0	0.99			True
+Aotus nancymaae	Euarchontoglires	Primates	105711196	XP_021529401.2	XM_021673726.2	anotada	431.0	0.97			True
+Propithecus coquereli	Euarchontoglires	Primates	105819080	XP_012510701.1	XM_012655247.1	anotada	440.0	0.99			True
+Microcebus murinus	Euarchontoglires	Primates	105863664	XP_012606512.1	XM_012751058.3	anotada	440.0	0.99			True
+Dipodomys ordii	Euarchontoglires	Rodentia	105998555	XP_012888774.1	XM_013033320.1	anotada	432.0	0.97			True
+Equus asinus	Laurasiatheria	Perissodactyla	106836496	XP_014704932.1	XM_014849446.3	anotada	445.0	0.98			True
+Acinonyx jubatus	Laurasiatheria	Carnivora	106988843	XP_026907830.1	XM_027052029.2	anotada	446.0	0.99			True
+Marmota marmota marmota	Euarchontoglires	Rodentia	107160525	XP_015362686.2	XM_015507200.2	anotada+recorte_Nter	432.0	0.97			True
+Rousettus aegyptiacus	Laurasiatheria	Chiroptera	107508176	XP_015995322.2	XM_016139836.2	anotada	446.0	0.99			True
+Miniopterus natalensis	Laurasiatheria	Chiroptera	107530997	XP_016060438.1	XM_016204952.2	anotada	446.0	0.99			True
+Cebus imitator	Euarchontoglires	Primates	108318302	XP_017404784.1	XM_017549295.2	anotada	431.0	0.97			True
+Manis javanica	Laurasiatheria	Pholidota	108398647	XP_036853151.2	XM_036997256.2	anotada	466.0	0.99			True
+Rhinopithecus bieti	Euarchontoglires	Primates	108529371	XP_017727124.1	XM_017871635.1	anotada	441.0	0.99			True
+Panthera pardus	Laurasiatheria	Carnivora	109259745	XP_019293046.1	XM_019437501.2	anotada	446.0	0.99			True
+Hipposideros armiger	Laurasiatheria	Chiroptera	109380299	XP_019493274.1	XM_019637729.1	anotada	445.0	0.98			True
+Rhinolophus sinicus	Laurasiatheria	Chiroptera	109448047	XP_019588518.2	XM_019732959.3	anotada	445.0	0.98			True
+Bos indicus	Laurasiatheria	Artiodactyla	109573661	XP_019836557.2	XM_019980998.2	in_silico	430.0	0.96			True
+Castor canadensis	Euarchontoglires	Rodentia	109684813	XP_073901938.1	XM_074045837.1	anotada	432.0	0.97			True
+Odocoileus virginianus	Laurasiatheria	Artiodactyla	110129709	XP_070335704.1	XM_070479603.1	anotada	432.0	0.97			True
+Phascolarctos cinereus		Diprotodontia	110215713	XP_020853063.2	XM_020997404.2	in_silico+recorte_Nter	446.0	0.96			True
+Mus caroli	Euarchontoglires	Rodentia	110304807	XP_021032070.1	XM_021176411.3	anotada	430.0	0.96			True
+Mus pahari	Euarchontoglires	Rodentia	110331493	XP_021067810.1	XM_021212151.1	anotada	430.0	0.96			True
+Meriones unguiculatus	Euarchontoglires	Rodentia	110545637	XP_021487553.1	XM_021631878.2	anotada	433.0	0.97			True
+Neomonachus schauinslandi	Laurasiatheria	Carnivora	110570453	XP_021534160.1	XM_021678485.1	in_silico	417.0	0.93	E3		True
+Enhydra lutris kenyoni	Laurasiatheria	Carnivora	111158157			excluida				sin isoforma con exones core completos editable en marco	False
+Delphinapterus leucas	Laurasiatheria	Artiodactyla	111182584	XP_022444756.1	XM_022589048.2	in_silico	439.0	0.97			True
+Piliocolobus tephrosceles	Euarchontoglires	Primates	111529278	XP_023051944.2	XM_023196176.2	anotada	441.0	0.99			True
+Desmodus rotundus	Laurasiatheria	Chiroptera	112316173	XP_045038133.2	XM_045182198.3	anotada	446.0	0.99			True
+Neophocaena asiaeorientalis asiaeorientalis	Laurasiatheria	Artiodactyla	112410117	XP_024616289.1	XM_024760521.1	in_silico	439.0	0.97			True
+Theropithecus gelada	Euarchontoglires	Primates	112609254	XP_086576961.1	XM_086720835.1	anotada	441.0	0.99			True
+Canis lupus dingo	Laurasiatheria	Carnivora	112653038	XP_025292594.1	XM_025436809.3	anotada	441.0	0.99			True
+Callorhinus ursinus	Laurasiatheria	Carnivora	112837623	XP_073739228.1	XM_073883127.1	anotada	446.0	0.99			True
+Puma concolor	Laurasiatheria	Carnivora	112862026	XP_086543745.1	XM_086687619.1	anotada	446.0	0.99			True
+Vulpes vulpes	Laurasiatheria	Carnivora	112920687	XP_025855296.1	XM_025999511.2	anotada	441.0	0.99			True
+Urocitellus parryii	Euarchontoglires	Rodentia	113196342	XP_026263984.2	XM_026408199.2	anotada	430.0	0.96			True
+Ursus arctos	Laurasiatheria	Carnivora	113265313	XP_026368356.1	XM_026512571.4	anotada	444.0	0.99			True
+Aethalodelphis obliquidens	Laurasiatheria	Artiodactyla	113606674	XP_026937127.1	XM_027081326.1	in_silico	439.0	0.97			True
+Bos indicus x Bos taurus	Laurasiatheria	Artiodactyla	113877388	XP_027373250.1	XM_027517449.1	in_silico	430.0	0.96			True
+Zalophus californianus	Laurasiatheria	Carnivora	113939784	XP_027482187.1	XM_027626386.2	anotada	446.0	0.99			True
+Vombatus ursinus		Diprotodontia	114051078	XP_027729027.1	XM_027873226.1	in_silico	446.0	0.96	E5		True
+Marmota flaviventris	Euarchontoglires	Rodentia	114080195	XP_027777583.1	XM_027921782.2	anotada	432.0	0.97			True
+Eumetopias jubatus	Laurasiatheria	Carnivora	114196731	XP_087884339.1	XM_088028213.1	in_silico	446.0	0.99			True
+Phyllostomus discolor	Laurasiatheria	Chiroptera	114503143	XP_028376364.1	XM_028520563.2	anotada	446.0	0.99			True
+Grammomys surdaster	Euarchontoglires	Rodentia	114632116	XP_028636423.1	XM_028780590.1	in_silico	434.0	0.97			True
+Peromyscus leucopus	Euarchontoglires	Rodentia	114702276	XP_028738509.1	XM_028882676.2	anotada	422.0	0.95			True
+Monodon monoceros	Laurasiatheria	Artiodactyla	114888899	XP_029067376.1	XM_029211543.1	in_silico	439.0	0.97			True
+Suricata suricatta	Laurasiatheria	Carnivora	115281979			excluida				sin isoforma con exones core completos editable en marco	False
+Lynx canadensis	Laurasiatheria	Carnivora	115501135	XP_030151897.1	XM_030296037.1	anotada	446.0	0.99			True
+Mastomys coucha	Euarchontoglires	Rodentia	116076902	XP_031206838.1	XM_031350978.1	in_silico	432.0	0.97			True
+Hylobates moloch	Euarchontoglires	Primates	116475002	XP_032019850.1	XM_032163959.2	anotada	441.0	0.99			True
+Sapajus apella	Euarchontoglires	Primates	116541646	XP_032121884.1	XM_032265993.1	anotada	431.0	0.97			True
+Mustela erminea	Laurasiatheria	Carnivora	116577580	XP_032176923.1	XM_032321032.1	anotada	436.0	0.98			True
+Phoca vitulina	Laurasiatheria	Carnivora	116647851	XP_032285309.1	XM_032429418.1	anotada	446.0	0.99			True
+Phocoena sinus	Laurasiatheria	Artiodactyla	116744941	XP_032470912.1	XM_032615021.1	in_silico	439.0	0.97			True
+Lontra canadensis	Laurasiatheria	Carnivora	116875434	XP_032726833.1	XM_032870942.1	anotada	436.0	0.98			True
+Rhinolophus ferrumequinum	Laurasiatheria	Chiroptera	117012835	XP_032945186.1	XM_033089295.1	anotada	445.0	0.98			True
+Trachypithecus francoisi	Euarchontoglires	Primates	117087581	XP_033075261.1	XM_033219370.1	anotada	441.0	0.99			True
+Arvicanthis niloticus	Euarchontoglires	Rodentia	117710422	XP_034361058.1	XM_034505167.2	anotada	432.0	0.97			True
+Mirounga leonina	Laurasiatheria	Carnivora	118027177	XP_034886279.1	XM_035030388.1	in_silico	446.0	0.99			True
+Halichoerus grypus	Laurasiatheria	Carnivora	118542685	XP_035959005.1	XM_036103112.2	anotada	446.0	0.99			True
+Onychomys torridus	Euarchontoglires	Rodentia	118588819	XP_036051263.1	XM_036195370.1	anotada	432.0	0.96			True
+Molossus molossus	Laurasiatheria	Chiroptera	118634096	XP_036124301.1	XM_036268408.1	in_silico	444.0	0.99			True
+Myotis myotis	Laurasiatheria	Chiroptera	118671627	XP_036196014.1	XM_036340121.1	in_silico	446.0	0.98			True
+Pipistrellus kuhlii	Laurasiatheria	Chiroptera	118726361	XP_045442320.1	XM_045586364.1	anotada	439.0	0.98			True
+Trichosurus vulpecula		Diprotodontia	118846107	XP_036610200.1	XM_036754305.1	in_silico	447.0	0.96	E5		True
+Balaenoptera musculus	Laurasiatheria	Artiodactyla	118886713	XP_036692711.1	XM_036836816.1	in_silico	405.0	0.9	E3		True
+Manis pentadactyla	Laurasiatheria	Pholidota	118919664	XP_057357572.1	XM_057501589.1	in_silico	446.0	0.98			True
+Sturnira hondurensis	Laurasiatheria	Chiroptera	119003781	XP_036926282.1	XM_037070387.1	anotada	446.0	0.99			True
+Artibeus jamaicensis	Laurasiatheria	Chiroptera	119062588	XP_037019514.2	XM_037163619.2	anotada	446.0	0.99			True
+Talpa occidentalis	Laurasiatheria	Eulipotyphla	119232082	XP_037349877.1	XM_037493980.2	anotada	453.0	0.99			True
+Choloepus didactylus	Xenarthra	Pilosa	119513135	XP_037663999.1	XM_037808071.1	anotada	445.0	0.98			True
+Arvicola amphibius	Euarchontoglires	Rodentia	119812136	XP_038182474.1	XM_038326546.1	anotada	432.0	0.97			True
+Tachyglossus aculeatus		Monotremata	119934935	XP_038610440.1	XM_038754512.1	in_silico	407.0	0.89	E10		True
+Hyaena hyaena	Laurasiatheria	Carnivora	120244270	XP_039106604.1	XM_039250673.1	anotada	446.0	0.99			True
+Pteropus medius	Laurasiatheria	Chiroptera	120589267	XP_039702755.1	XM_039846821.1	in_silico	446.0	0.99			True
+Oryx dammah	Laurasiatheria	Artiodactyla	120866971	XP_040100988.1	XM_040245054.1	anotada	432.0	0.97			True
+Herpailurus yagouaroundi	Laurasiatheria	Carnivora	121020155	XP_040316006.1	XM_040460072.1	anotada	446.0	0.99			True
+Ursus maritimus	Laurasiatheria	Carnivora	121104977	XP_040496379.1	XM_040640445.1	anotada	444.0	0.99			True
+Ochotona curzoniae	Euarchontoglires	Lagomorpha	121162331	XP_040845224.1	XM_040989290.1	anotada	432.0	0.97			True
+Microtus oregoni	Euarchontoglires	Rodentia	121435969	XP_041491472.1	XM_041635538.1	anotada	431.0	0.97			True
+Vulpes lagopus	Laurasiatheria	Carnivora	121472963	XP_041580628.1	XM_041724694.1	anotada	441.0	0.99			True
+Dipodomys spectabilis	Euarchontoglires	Rodentia	122103501	XP_042530037.1	XM_042674103.1	anotada	432.0	0.97			True
+Panthera leo	Laurasiatheria	Carnivora	122206734	XP_042772123.1	XM_042916189.1	in_silico	446.0	0.99			True
+Cervus canadensis	Laurasiatheria	Artiodactyla	122440039	XP_043321821.1	XM_043465886.1	anotada	432.0	0.97			True
+Prionailurus bengalensis	Laurasiatheria	Carnivora	122485735	XP_043440815.1	XM_043584880.1	anotada	446.0	0.99			True
+Cervus elaphus	Laurasiatheria	Artiodactyla	122695259	XP_043760866.1	XM_043904931.1	anotada	432.0	0.97			True
+Dromiciops gliroides		Microbiotheria	122754283	XP_043858499.1	XM_044002564.1	in_silico+recorte_Nter	447.0	0.96	E5		True
+Neogale vison	Laurasiatheria	Carnivora	122906106	XP_044103639.1	XM_044247704.1	anotada	436.0	0.98			True
+Gracilinanus agilis		Didelphimorphia	123247918	XP_044532932.1	XM_044676997.1	anotada	447.0	0.95			True
+Leopardus geoffroyi	Laurasiatheria	Carnivora	123603878	XP_045345266.1	XM_045489310.1	anotada	446.0	0.99			True
+Lemur catta	Euarchontoglires	Primates	123620566	XP_045381870.1	XM_045525914.1	anotada	441.0	0.99			True
+Ursus americanus	Laurasiatheria	Carnivora	123803222	XP_087710391.1	XM_087854265.1	anotada	444.0	0.99			True
+Phyllostomus hastatus	Laurasiatheria	Chiroptera	123816832	XP_045691988.1	XM_045836032.1	anotada	446.0	0.99			True
+Mirounga angustirostris	Laurasiatheria	Carnivora	123853899	XP_064438426.1	XM_064582356.1	anotada	446.0	0.99			True
+Meles meles	Laurasiatheria	Carnivora	123929205	XP_045840562.1	XM_045984606.1	anotada	436.0	0.98			True
+Marmota monax	Euarchontoglires	Rodentia	124076978	XP_046277114.1	XM_046421158.2	anotada	432.0	0.97			True
+Equus quagga	Laurasiatheria	Perissodactyla	124246642	XP_046530982.1	XM_046675026.1	anotada	445.0	0.98			True
+Lynx rufus	Laurasiatheria	Carnivora	124513561	XP_046937638.1	XM_047081682.1	in_silico	446.0	0.99			True
+Sciurus carolinensis	Euarchontoglires	Rodentia	124980973	XP_047403057.1	XM_047547101.1	anotada	432.0	0.97			True
+Lutra lutra	Laurasiatheria	Carnivora	125086936	XP_047562594.1	XM_047706638.1	anotada	436.0	0.98			True
+Phacochoerus africanus	Laurasiatheria	Artiodactyla	125114191	XP_047613307.1	XM_047757351.1	anotada	433.0	0.97			True
+Prionailurus viverrinus	Laurasiatheria	Carnivora	125151859	XP_047689306.1	XM_047833350.1	anotada	446.0	0.99			True
+Perognathus longimembris pacificus	Euarchontoglires	Rodentia	125366515	XP_048223230.1	XM_048367273.1	in_silico	402.0	0.9	E3		True
+Myodes glareolus	Euarchontoglires	Rodentia	125407968	XP_048301860.1	XM_048445903.3	anotada	432.0	0.97			True
+Panthera uncia	Laurasiatheria	Carnivora	125927337	XP_049493562.1	XM_049637605.1	anotada	446.0	0.99			True
+Suncus etruscus	Laurasiatheria	Eulipotyphla	126020348	XP_049637758.1	XM_049781801.1	anotada	443.0	0.99			True
+Elephas maximus indicus	Afrotheria	Proboscidea	126063307	XP_049717591.1	XM_049861634.1	anotada	440.0	0.97			True
+Alexandromys fortis	Euarchontoglires	Rodentia	126487542	XP_049976361.1	XM_050120404.1	anotada	432.0	0.97			True
+Macaca thibetana thibetana	Euarchontoglires	Primates	126938919	XP_050619658.1	XM_050763701.1	anotada	441.0	0.99			True
+Acomys russatus	Euarchontoglires	Rodentia	127200521	XP_051014800.1	XM_051158843.1	in_silico	428.0	0.96			True
+Phodopus roborovskii	Euarchontoglires	Rodentia	127217676	XP_051034647.1	XM_051178690.1	in_silico	403.0	0.9	E3		True
+Antechinus flavipes		Dasyuromorphia	127560384	XP_051850874.1	XM_051994914.1	in_silico	447.0	0.96	E5		True
+Apodemus sylvaticus	Euarchontoglires	Rodentia	127695236	XP_052053198.1	XM_052197238.1	anotada	430.0	0.96			True
+Budorcas taxicolor	Laurasiatheria	Artiodactyla	128064960	XP_052513963.1	XM_052658003.1	anotada	432.0	0.97			True
+Peromyscus californicus insignis	Euarchontoglires	Rodentia	128123358	XP_052615638.1	XM_052759678.1	in_silico	432.0	0.97			True
+Nycticebus coucang	Euarchontoglires	Primates	128569605	XP_053423789.1	XM_053567814.1	anotada	440.0	0.99			True
+Pongo pygmaeus	Euarchontoglires	Primates	129017902	XP_054314817.1	XM_054458842.2	anotada	441.0	0.99			True
+Pteronotus mesoamericanus	Laurasiatheria	Chiroptera	129071577	XP_054430861.1	XM_054574886.1	anotada	446.0	0.99			True
+Symphalangus syndactylus	Euarchontoglires	Primates	129470170	XP_055113635.1	XM_055257660.2	anotada	441.0	0.99			True
+Nyctereutes procyonoides	Laurasiatheria	Carnivora	129507366	XP_055177768.1	XM_055321793.1	anotada	441.0	0.99			True
+Moschus berezovskii	Laurasiatheria	Artiodactyla	129544523	XP_055264096.2	XM_055408121.2	in_silico	432.0	0.97			True
+Bubalus kerabau	Laurasiatheria	Artiodactyla	129648870	XP_055431595.1	XM_055575620.1	anotada	432.0	0.97			True
+Psammomys obesus	Euarchontoglires	Rodentia	129665565	XP_055448278.1	XM_055592303.1	anotada	433.0	0.97			True
+Sorex fumeus	Laurasiatheria	Eulipotyphla	130035870	XP_055983770.1	XM_056127795.1	anotada	443.0	0.99			True
+Hippopotamus amphibius kiboko	Laurasiatheria	Artiodactyla	130840751	XP_057572586.1	XM_057716603.1	anotada	433.0	0.97			True
+Chionomys nivalis	Euarchontoglires	Rodentia	130877567	XP_057630971.1	XM_057774988.1	anotada	432.0	0.97			True
+Diceros bicornis minor	Laurasiatheria	Perissodactyla	131417618	XP_058417260.1	XM_058561277.1	in_silico	445.0	0.99			True
+Neofelis nebulosa	Laurasiatheria	Carnivora	131498561	XP_058561953.1	XM_058705970.1	anotada	446.0	0.99			True
+Kogia breviceps	Laurasiatheria	Artiodactyla	131746938	XP_058904723.1	XM_059048740.2	anotada	433.0	0.97			True
+Mustela lutreola	Laurasiatheria	Carnivora	131815906	XP_059004034.1	XM_059148051.1	anotada	436.0	0.98			True
+Peromyscus eremicus	Euarchontoglires	Rodentia	131917829	XP_059127917.1	XM_059271934.1	in_silico	432.0	0.97			True
+Mustela nigripes	Laurasiatheria	Carnivora	132003666	XP_059235280.1	XM_059379297.1	anotada	436.0	0.98			True
+Myotis daubentonii	Laurasiatheria	Chiroptera	132218542	XP_059525843.1	XM_059669860.1	in_silico	439.0	0.98			True
+Balaenoptera ricei	Laurasiatheria	Artiodactyla	132356120	XP_059764888.1	XM_059908905.1	anotada	433.0	0.97			True
+Delphinus delphis	Laurasiatheria	Artiodactyla	132415184	XP_069396237.1	XM_069540136.1	in_silico	439.0	0.97			True
+Mesoplodon densirostris	Laurasiatheria	Artiodactyla	132478030	XP_059936720.1	XM_060080737.1	in_silico	433.0	0.97			True
+Lagenorhynchus albirostris	Laurasiatheria	Artiodactyla	132511585	XP_059990838.1	XM_060134855.1	in_silico	439.0	0.97			True
+Panthera onca	Laurasiatheria	Carnivora	132687501	XP_060501800.1	XM_060645817.2	anotada	446.0	0.99			True
+Dama dama	Laurasiatheria	Artiodactyla	133057599	XP_061000269.1	XM_061144286.1	anotada	432.0	0.97			True
+Eubalaena glacialis	Laurasiatheria	Artiodactyla	133079304	XP_061030591.1	XM_061174608.1	anotada	433.0	0.97			True
+Bos javanicus	Laurasiatheria	Artiodactyla	133232599	XP_061248209.1	XM_061392225.1	anotada	430.0	0.96			True
+Lepus europaeus	Euarchontoglires	Lagomorpha	133776649	XP_062071757.1	XM_062215773.1	anotada	432.0	0.97			True
+Cynocephalus volans	Euarchontoglires	Dermoptera	134365133	XP_062937400.1	XM_063081330.1	in_silico	439.0	0.99			True
+Phocoena phocoena	Laurasiatheria	Artiodactyla	136139025	XP_065754016.1	XM_065897944.1	in_silico	439.0	0.97			True
+Muntiacus reevesi	Laurasiatheria	Artiodactyla	136149212	XP_065765366.1	XM_065909294.1	anotada	432.0	0.97			True
+Saccopteryx bilineata	Laurasiatheria	Chiroptera	136326557	XP_066118793.1	XM_066262696.1	anotada	445.0	0.98			True
+Saccopteryx leptura	Laurasiatheria	Chiroptera	136391430	XP_066219209.1	XM_066363112.1	anotada	445.0	0.98			True
+Pseudorca crassidens	Laurasiatheria	Artiodactyla	137211804	XP_067570553.1	XM_067714452.1	in_silico	439.0	0.97			True
+Eschrichtius robustus	Laurasiatheria	Artiodactyla	137755122	XP_068387222.1	XM_068531121.1	in_silico	433.0	0.97			True
+Capricornis sumatraensis	Laurasiatheria	Artiodactyla	138083113	XP_068832857.1	XM_068976756.1	anotada	432.0	0.97			True
+Petaurus breviceps papuanus		Diprotodontia	138152436	XP_068932306.1	XM_069076205.1	in_silico	447.0	0.96	E5		True
+Eulemur rufifrons	Euarchontoglires	Primates	138392184	XP_069338827.1	XM_069482726.1	anotada	441.0	0.99			True
+Ovis canadensis	Laurasiatheria	Artiodactyla	138414371	XP_069397776.1	XM_069541675.1	anotada	432.0	0.97			True
+Dipodomys merriami	Euarchontoglires	Rodentia	138830850	XP_069883776.1	XM_070027675.1	anotada	432.0	0.97			True
+Myotis yumanensis	Laurasiatheria	Chiroptera	138994739	XP_070250949.1	XM_070394848.1	anotada	448.0	0.98			True
+Notamacropus eugenii		Diprotodontia	140528249	XP_072502032.1	XM_072645931.1	in_silico	446.0	0.96	E5		True
+Canis lupus baileyi	Laurasiatheria	Carnivora	140607029	XP_072637404.1	XM_072781303.1	anotada	441.0	0.99			True
+Macrotis lagotis		Peramelemorphia	141514001	XP_074080498.1	XM_074224397.1	in_silico+recorte_Nter	635.0	0.96	E5	longitud atípica (635 aa): extensión no homóloga en el modelo génico	False
+Sminthopsis crassicaudata		Dasyuromorphia	141538932	XP_074117076.1	XM_074260975.1	in_silico+recorte_Nter	447.0	0.96	E5		True
+Tenrec ecaudatus	Afrotheria	Afrosoricida	142458369	XP_075415520.1	XM_075559405.1	in_silico	442.0	0.97			True
+Microtus pennsylvanicus	Euarchontoglires	Rodentia	142859901	XP_075846566.1	XM_075990451.1	anotada	432.0	0.97			True
+Callospermophilus lateralis	Euarchontoglires	Rodentia	143409241	XP_076725347.1	XM_076869232.2	anotada	432.0	0.97			True
+Tamandua tetradactyla	Xenarthra	Pilosa	143687249	XP_077020157.1	XM_077164042.1	anotada	445.0	0.98			True
+Crocuta crocuta	Laurasiatheria	Carnivora	144245005	XP_077636530.1	XM_077780404.1	anotada	446.0	0.99			True
+Canis aureus	Laurasiatheria	Carnivora	144286891	XP_077710139.1	XM_077854013.1	anotada	441.0	0.99			True
+Giraffa tippelskirchi	Laurasiatheria	Artiodactyla	145541082	XP_081432608.1	XM_081576482.1	anotada	432.0	0.97			True
+Bos grunniens	Laurasiatheria	Artiodactyla	147351405	XP_086213312.1	XM_086357186.1	anotada	430.0	0.96			True
+Sciurus vulgaris	Euarchontoglires	Rodentia	306658210	XP_078991093.1	XM_079134967.1	anotada	432.0	0.97			True
+Hyperoodon ampullatus	Laurasiatheria	Artiodactyla	307067496	XP_079581066.1	XM_079724940.1	anotada	431.0	0.97			True
+Cnephaeus nilssonii	Laurasiatheria	Chiroptera	307115065	XP_079654183.1	XM_079798057.1	in_silico	412.0	0.92	E3		True
+Stenella coeruleoalba	Laurasiatheria	Artiodactyla	307178117	XP_079761960.1	XM_079905834.1	in_silico	439.0	0.97			True
+Plecotus auritus	Laurasiatheria	Chiroptera	308254546	XP_080536829.1	XM_080680703.1	anotada	448.0	0.98			True
+Muscardinus avellanarius	Euarchontoglires	Rodentia	308275449	XP_080569865.1	XM_080713739.1	anotada	427.0	0.95			True
+Martes martes	Laurasiatheria	Carnivora	308357096	XP_080682713.1	XM_080826587.1	anotada	436.0	0.98			True
+Micromys minutus	Euarchontoglires	Rodentia	308426491	XP_080780394.1	XM_080924268.1	anotada	432.0	0.97			True
+Rhinolophus hipposideros	Laurasiatheria	Chiroptera	308488565	XP_080884545.1	XM_081028419.1	anotada	445.0	0.98			True
+Myotis nattereri	Laurasiatheria	Chiroptera	308531942	XP_080965171.1	XM_081109045.1	anotada	439.0	0.98			True
+Miniopterus schreibersii	Laurasiatheria	Chiroptera	308569230	XP_081018959.1	XM_081162833.1	anotada	446.0	0.99			True
+Mesoplodon bidens	Laurasiatheria	Artiodactyla	308606793	XP_081074269.1	XM_081218143.1	in_silico	433.0	0.97			True
+Spermophilus citellus	Euarchontoglires	Rodentia	308636199	XP_081127560.1	XM_081271434.1	anotada	430.0	0.96			True
+Balaenoptera borealis	Laurasiatheria	Artiodactyla	309619063	XP_082229910.1	XM_082373784.1	anotada	433.0	0.97			True
+Balaenoptera physalus	Laurasiatheria	Artiodactyla	309650973	XP_082299232.1	XM_082443106.1	anotada	433.0	0.97			True
+Mesoplodon mirus	Laurasiatheria	Artiodactyla	309793139	XP_082459571.1	XM_082603445.1	in_silico	433.0	0.97			True
+Grampus griseus	Laurasiatheria	Artiodactyla	309837757	XP_082534662.1	XM_082678536.1	in_silico	439.0	0.97			True
+Mustela nivalis	Laurasiatheria	Carnivora	309851341	XP_082562627.1	XM_082706501.1	anotada	436.0	0.98			True
+Leucopleurus acutus	Laurasiatheria	Artiodactyla	309974967	XP_082715961.1	XM_082859835.1	in_silico	439.0	0.97			True
+Talpa europaea	Laurasiatheria	Eulipotyphla	311173362	XP_084093389.1	XM_084237263.1	anotada	446.0	0.99			True
+Acomys minous	Euarchontoglires	Rodentia	311579444	XP_084606148.1	XM_084750022.1	anotada	432.0	0.97			True
+Pipistrellus hanaki	Laurasiatheria	Chiroptera	311610441	XP_084717825.1	XM_084861699.1	anotada	442.0	0.98			True

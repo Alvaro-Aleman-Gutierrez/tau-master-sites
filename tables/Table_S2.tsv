@@ -1,0 +1,1201 @@
+species	group	site	rule_A	rule_B	rule_C
+Agelaius phoeniceus	Sauropsida	50	I	I	I
+Agelaius phoeniceus	Sauropsida	69	T	T	T
+Agelaius phoeniceus	Sauropsida	181	T	T	T
+Agelaius phoeniceus	Sauropsida	217	T	T	T
+Agelaius phoeniceus	Sauropsida	403	A	A	A
+Agelaius tricolor	Sauropsida	50	I	I	I
+Agelaius tricolor	Sauropsida	69	T	T	T
+Agelaius tricolor	Sauropsida	181	T	T	T
+Agelaius tricolor	Sauropsida	217	T	T	T
+Agelaius tricolor	Sauropsida	403	A	A	A
+Alligator mississippiensis	Sauropsida	50	I	I	I
+Alligator mississippiensis	Sauropsida	69	T	T	T
+Alligator mississippiensis	Sauropsida	181	T	T	T
+Alligator mississippiensis	Sauropsida	217	T	T	T
+Alligator mississippiensis	Sauropsida	403	A	A	A
+Alligator sinensis	Sauropsida	50	I	I	I
+Alligator sinensis	Sauropsida	69	T	T	T
+Alligator sinensis	Sauropsida	181	T	T	T
+Alligator sinensis	Sauropsida	217	T	T	T
+Alligator sinensis	Sauropsida	403	A	A	A
+Ambystoma mexicanum	Amphibia	50			
+Ambystoma mexicanum	Amphibia	69	T	T	T
+Ambystoma mexicanum	Amphibia	181	T	T	T
+Ambystoma mexicanum	Amphibia	217	F	F	F
+Ambystoma mexicanum	Amphibia	403	T	T	T
+Ammospiza caudacuta	Sauropsida	50	I	I	I
+Ammospiza caudacuta	Sauropsida	69	T	T	T
+Ammospiza caudacuta	Sauropsida	181	T	T	T
+Ammospiza caudacuta	Sauropsida	217	T	T	T
+Ammospiza caudacuta	Sauropsida	403	A	A	A
+Ammospiza nelsoni	Sauropsida	50	I	I	I
+Ammospiza nelsoni	Sauropsida	69	T	T	T
+Ammospiza nelsoni	Sauropsida	181	T	T	T
+Ammospiza nelsoni	Sauropsida	217	T	T	T
+Ammospiza nelsoni	Sauropsida	403	A	A	A
+Anas acuta	Sauropsida	50	I	I	I
+Anas acuta	Sauropsida	69	T	T	T
+Anas acuta	Sauropsida	181	T	T	T
+Anas acuta	Sauropsida	217	T	T	T
+Anas acuta	Sauropsida	403	A	A	A
+Anas platyrhynchos	Sauropsida	50	I	I	I
+Anas platyrhynchos	Sauropsida	69	T	T	T
+Anas platyrhynchos	Sauropsida	181	T	T	T
+Anas platyrhynchos	Sauropsida	217	T	T	T
+Anas platyrhynchos	Sauropsida	403	A	A	A
+Anolis carolinensis	Sauropsida	50	I	I	I
+Anolis carolinensis	Sauropsida	69	T	T	T
+Anolis carolinensis	Sauropsida	181	T	T	T
+Anolis carolinensis	Sauropsida	217	T	T	T
+Anolis carolinensis	Sauropsida	403	A	A	A
+Anolis sagrei	Sauropsida	50	I	I	I
+Anolis sagrei	Sauropsida	69	T	T	T
+Anolis sagrei	Sauropsida	181	T	T	T
+Anolis sagrei	Sauropsida	217	T	T	T
+Anolis sagrei	Sauropsida	403	A	A	A
+Anomalospiza imberbis	Sauropsida	50	I	I	I
+Anomalospiza imberbis	Sauropsida	69	T	T	T
+Anomalospiza imberbis	Sauropsida	181	T	T	T
+Anomalospiza imberbis	Sauropsida	217	T	T	T
+Anomalospiza imberbis	Sauropsida	403	A	A	A
+Anser anser	Sauropsida	50	I	I	I
+Anser anser	Sauropsida	69	T	T	T
+Anser anser	Sauropsida	181	T	T	T
+Anser anser	Sauropsida	217	T	T	T
+Anser anser	Sauropsida	403	A	A	A
+Anser brachyrhynchus	Sauropsida	50	I	I	I
+Anser brachyrhynchus	Sauropsida	69	T	T	T
+Anser brachyrhynchus	Sauropsida	181	T	T	T
+Anser brachyrhynchus	Sauropsida	217	T	T	T
+Anser brachyrhynchus	Sauropsida	403	A	A	A
+Anser cygnoides	Sauropsida	50	I	I	I
+Anser cygnoides	Sauropsida	69	T	T	T
+Anser cygnoides	Sauropsida	181	T	T	T
+Anser cygnoides	Sauropsida	217	T	T	T
+Anser cygnoides	Sauropsida	403	A	A	A
+Aphelocoma coerulescens	Sauropsida	50	I	I	I
+Aphelocoma coerulescens	Sauropsida	69	T	T	T
+Aphelocoma coerulescens	Sauropsida	181	T	T	T
+Aphelocoma coerulescens	Sauropsida	217	T	T	T
+Aphelocoma coerulescens	Sauropsida	403	A	A	A
+Aptenodytes forsteri	Sauropsida	50	I	I	I
+Aptenodytes forsteri	Sauropsida	69	T	T	T
+Aptenodytes forsteri	Sauropsida	181	T	T	T
+Aptenodytes forsteri	Sauropsida	217	T	T	T
+Aptenodytes forsteri	Sauropsida	403	A	A	A
+Aptenodytes patagonicus	Sauropsida	50	I	I	I
+Aptenodytes patagonicus	Sauropsida	69	T	T	T
+Aptenodytes patagonicus	Sauropsida	181	T	T	T
+Aptenodytes patagonicus	Sauropsida	217	T	T	T
+Aptenodytes patagonicus	Sauropsida	403	A	A	A
+Apteryx rowi	Sauropsida	50	I	I	I
+Apteryx rowi	Sauropsida	69	T	T	T
+Apteryx rowi	Sauropsida	181	T	T	T
+Apteryx rowi	Sauropsida	217	T	T	T
+Apteryx rowi	Sauropsida	403			
+Apus apus	Sauropsida	50	I	I	I
+Apus apus	Sauropsida	69	T	T	T
+Apus apus	Sauropsida	181	T	T	T
+Apus apus	Sauropsida	217	T	T	T
+Apus apus	Sauropsida	403	A	A	A
+Aquila chrysaetos chrysaetos	Sauropsida	50	I	I	I
+Aquila chrysaetos chrysaetos	Sauropsida	69	T	T	T
+Aquila chrysaetos chrysaetos	Sauropsida	181	T	T	T
+Aquila chrysaetos chrysaetos	Sauropsida	217	T	T	T
+Aquila chrysaetos chrysaetos	Sauropsida	403	A	A	A
+Astur gentilis	Sauropsida	50	I	I	I
+Astur gentilis	Sauropsida	69	T	T	T
+Astur gentilis	Sauropsida	181	T	T	T
+Astur gentilis	Sauropsida	217	T	T	T
+Astur gentilis	Sauropsida	403	A	A	A
+Athene cunicularia	Sauropsida	50	I	I	I
+Athene cunicularia	Sauropsida	69	T	T	T
+Athene cunicularia	Sauropsida	181	T	T	T
+Athene cunicularia	Sauropsida	217	T	T	T
+Athene cunicularia	Sauropsida	403	A	A	A
+Athene noctua	Sauropsida	50	I	I	I
+Athene noctua	Sauropsida	69	T	T	T
+Athene noctua	Sauropsida	181	T	T	T
+Athene noctua	Sauropsida	217	T	T	T
+Athene noctua	Sauropsida	403	A	A	A
+Aythya ferina	Sauropsida	50	I	I	I
+Aythya ferina	Sauropsida	69	T	T	T
+Aythya ferina	Sauropsida	181	T	T	T
+Aythya ferina	Sauropsida	217	T	T	T
+Aythya ferina	Sauropsida	403	A	A	A
+Aythya fuligula	Sauropsida	50	I	I	I
+Aythya fuligula	Sauropsida	69	T	T	T
+Aythya fuligula	Sauropsida	181	T	T	T
+Aythya fuligula	Sauropsida	217	T	T	T
+Aythya fuligula	Sauropsida	403	A	A	A
+Aythya marila	Sauropsida	50	I	I	I
+Aythya marila	Sauropsida	69	T	T	T
+Aythya marila	Sauropsida	181	T	T	T
+Aythya marila	Sauropsida	217	T	T	T
+Aythya marila	Sauropsida	403	A	A	A
+Balearica regulorum gibbericeps	Sauropsida	50	I	I	I
+Balearica regulorum gibbericeps	Sauropsida	69	T	T	T
+Balearica regulorum gibbericeps	Sauropsida	181	T	T	T
+Balearica regulorum gibbericeps	Sauropsida	217	T	T	T
+Balearica regulorum gibbericeps	Sauropsida	403	A	A	A
+Branta canadensis	Sauropsida	50	I	I	I
+Branta canadensis	Sauropsida	69	T	T	T
+Branta canadensis	Sauropsida	181	T	T	T
+Branta canadensis	Sauropsida	217	T	T	T
+Branta canadensis	Sauropsida	403	A	A	A
+Bucephala clangula	Sauropsida	50	I	I	I
+Bucephala clangula	Sauropsida	69	T	T	T
+Bucephala clangula	Sauropsida	181	T	T	T
+Bucephala clangula	Sauropsida	217	T	T	T
+Bucephala clangula	Sauropsida	403	A	A	A
+Bufo gargarizans	Amphibia	50			
+Bufo gargarizans	Amphibia	69			
+Bufo gargarizans	Amphibia	181	T	T	T
+Bufo gargarizans	Amphibia	217	M	M	M
+Bufo gargarizans	Amphibia	403	T	T	T
+Buteo buteo	Sauropsida	50	I	I	I
+Buteo buteo	Sauropsida	69	T	T	T
+Buteo buteo	Sauropsida	181	T	T	T
+Buteo buteo	Sauropsida	217	T	T	T
+Buteo buteo	Sauropsida	403	A	A	A
+Calidris pugnax	Sauropsida	50	I	I	I
+Calidris pugnax	Sauropsida	69	T	T	T
+Calidris pugnax	Sauropsida	181	T	T	T
+Calidris pugnax	Sauropsida	217	T	T	T
+Calidris pugnax	Sauropsida	403	A	A	A
+Caloenas nicobarica	Sauropsida	50	I	I	I
+Caloenas nicobarica	Sauropsida	69	T	T	T
+Caloenas nicobarica	Sauropsida	181	T	T	T
+Caloenas nicobarica	Sauropsida	217	T	T	T
+Caloenas nicobarica	Sauropsida	403	A	A	A
+Calonectris borealis	Sauropsida	50	I	I	I
+Calonectris borealis	Sauropsida	69	T	T	T
+Calonectris borealis	Sauropsida	181	T	T	T
+Calonectris borealis	Sauropsida	217	T	T	T
+Calonectris borealis	Sauropsida	403	A	A	A
+Calypte anna	Sauropsida	50	I	I	I
+Calypte anna	Sauropsida	69	T	T	T
+Calypte anna	Sauropsida	181	T	T	T
+Calypte anna	Sauropsida	217	T	T	T
+Calypte anna	Sauropsida	403	A	A	A
+Camarhynchus parvulus	Sauropsida	50	I	I	I
+Camarhynchus parvulus	Sauropsida	69	T	T	T
+Camarhynchus parvulus	Sauropsida	181	T	T	T
+Camarhynchus parvulus	Sauropsida	217	T	T	T
+Camarhynchus parvulus	Sauropsida	403	A	A	A
+Candoia aspera	Sauropsida	50	I	I	I
+Candoia aspera	Sauropsida	69	T	T	T
+Candoia aspera	Sauropsida	181	T	T	T
+Candoia aspera	Sauropsida	217	T	T	T
+Candoia aspera	Sauropsida	403	A	A	A
+Caretta caretta	Sauropsida	50	I	I	I
+Caretta caretta	Sauropsida	69	T	T	T
+Caretta caretta	Sauropsida	181	T	T	T
+Caretta caretta	Sauropsida	217	T	T	T
+Caretta caretta	Sauropsida	403	A	A	A
+Carettochelys insculpta	Sauropsida	50	I	I	I
+Carettochelys insculpta	Sauropsida	69	T	T	T
+Carettochelys insculpta	Sauropsida	181	T	T	T
+Carettochelys insculpta	Sauropsida	217	T	T	T
+Carettochelys insculpta	Sauropsida	403	A	A	A
+Cariama cristata	Sauropsida	50			
+Cariama cristata	Sauropsida	69			
+Cariama cristata	Sauropsida	181	T	T	T
+Cariama cristata	Sauropsida	217			
+Cariama cristata	Sauropsida	403			
+Catharus ustulatus	Sauropsida	50	I	I	I
+Catharus ustulatus	Sauropsida	69	T	T	T
+Catharus ustulatus	Sauropsida	181	T	T	T
+Catharus ustulatus	Sauropsida	217	T	T	T
+Catharus ustulatus	Sauropsida	403	A	A	A
+Centrocercus urophasianus	Sauropsida	50	I		
+Centrocercus urophasianus	Sauropsida	69	T		
+Centrocercus urophasianus	Sauropsida	181	T	T	T
+Centrocercus urophasianus	Sauropsida	217	T	T	T
+Centrocercus urophasianus	Sauropsida	403	A		
+Chaetura pelagica	Sauropsida	50	I	I	I
+Chaetura pelagica	Sauropsida	69	T	T	T
+Chaetura pelagica	Sauropsida	181	T	T	T
+Chaetura pelagica	Sauropsida	217	T	T	T
+Chaetura pelagica	Sauropsida	403	A	A	A
+Chamaea fasciata	Sauropsida	50	I	I	I
+Chamaea fasciata	Sauropsida	69	T	T	T
+Chamaea fasciata	Sauropsida	181	T	T	T
+Chamaea fasciata	Sauropsida	217	T	T	T
+Chamaea fasciata	Sauropsida	403	A	A	A
+Charadrius vociferus	Sauropsida	50	I	I	I
+Charadrius vociferus	Sauropsida	69	T	T	T
+Charadrius vociferus	Sauropsida	181	T	T	T
+Charadrius vociferus	Sauropsida	217	T	T	T
+Charadrius vociferus	Sauropsida	403	A	A	A
+Chelonia mydas	Sauropsida	50	I	I	I
+Chelonia mydas	Sauropsida	69	T	T	T
+Chelonia mydas	Sauropsida	181	T	T	T
+Chelonia mydas	Sauropsida	217	T	T	T
+Chelonia mydas	Sauropsida	403	A	A	A
+Chelonoidis abingdonii	Sauropsida	50	I		I
+Chelonoidis abingdonii	Sauropsida	69	T		T
+Chelonoidis abingdonii	Sauropsida	181	T	T	T
+Chelonoidis abingdonii	Sauropsida	217	T	T	T
+Chelonoidis abingdonii	Sauropsida	403	A	A	A
+Chlamydotis macqueenii	Sauropsida	50	I	I	I
+Chlamydotis macqueenii	Sauropsida	69	T	T	T
+Chlamydotis macqueenii	Sauropsida	181	T	T	T
+Chlamydotis macqueenii	Sauropsida	217	T	T	T
+Chlamydotis macqueenii	Sauropsida	403	A	A	A
+Chroicocephalus ridibundus	Sauropsida	50	I	I	I
+Chroicocephalus ridibundus	Sauropsida	69	T	T	T
+Chroicocephalus ridibundus	Sauropsida	181	T	T	T
+Chroicocephalus ridibundus	Sauropsida	217	T	T	T
+Chroicocephalus ridibundus	Sauropsida	403	A	A	A
+Chrysemys picta bellii	Sauropsida	50	I	K	
+Chrysemys picta bellii	Sauropsida	69	T		I
+Chrysemys picta bellii	Sauropsida	181	T	T	T
+Chrysemys picta bellii	Sauropsida	217	T	T	T
+Chrysemys picta bellii	Sauropsida	403	A	A	A
+Clangula hyemalis	Sauropsida	50	I	I	I
+Clangula hyemalis	Sauropsida	69	T	T	T
+Clangula hyemalis	Sauropsida	181	T	T	T
+Clangula hyemalis	Sauropsida	217	T	T	T
+Clangula hyemalis	Sauropsida	403	A	A	A
+Colius striatus	Sauropsida	50	I	I	I
+Colius striatus	Sauropsida	69	T	T	T
+Colius striatus	Sauropsida	181	T	T	T
+Colius striatus	Sauropsida	217	T	T	T
+Colius striatus	Sauropsida	403	A	A	A
+Columba livia	Sauropsida	50	I	I	I
+Columba livia	Sauropsida	69	T	T	T
+Columba livia	Sauropsida	181	T	T	T
+Columba livia	Sauropsida	217	T	T	T
+Columba livia	Sauropsida	403	A	A	A
+Corapipo altera	Sauropsida	50	I		
+Corapipo altera	Sauropsida	69	T		
+Corapipo altera	Sauropsida	181	T	T	T
+Corapipo altera	Sauropsida	217	T	T	T
+Corapipo altera	Sauropsida	403	A		
+Corvus brachyrhynchos	Sauropsida	50	I	I	I
+Corvus brachyrhynchos	Sauropsida	69	T	T	T
+Corvus brachyrhynchos	Sauropsida	181	T	T	T
+Corvus brachyrhynchos	Sauropsida	217			
+Corvus brachyrhynchos	Sauropsida	403	A	A	A
+Corvus kubaryi	Sauropsida	50	I	I	I
+Corvus kubaryi	Sauropsida	69	T	T	T
+Corvus kubaryi	Sauropsida	181	T	T	T
+Corvus kubaryi	Sauropsida	217	T	T	T
+Corvus kubaryi	Sauropsida	403	A	A	A
+Corvus moneduloides	Sauropsida	50	I	I	I
+Corvus moneduloides	Sauropsida	69	T	T	T
+Corvus moneduloides	Sauropsida	181	T	T	T
+Corvus moneduloides	Sauropsida	217	T	T	T
+Corvus moneduloides	Sauropsida	403	A	A	A
+Coturnix japonica	Sauropsida	50	I	I	I
+Coturnix japonica	Sauropsida	69	T	T	T
+Coturnix japonica	Sauropsida	181	T	T	T
+Coturnix japonica	Sauropsida	217	T	T	T
+Coturnix japonica	Sauropsida	403	A	A	A
+Crocodylus porosus	Sauropsida	50	I	I	I
+Crocodylus porosus	Sauropsida	69	T	T	T
+Crocodylus porosus	Sauropsida	181	T	T	T
+Crocodylus porosus	Sauropsida	217	T	T	T
+Crocodylus porosus	Sauropsida	403	A	A	A
+Crotalus tigris	Sauropsida	50	I	I	I
+Crotalus tigris	Sauropsida	69	T	T	T
+Crotalus tigris	Sauropsida	181	T	T	T
+Crotalus tigris	Sauropsida	217	T	T	T
+Crotalus tigris	Sauropsida	403	A	A	A
+Cuculus canorus	Sauropsida	50	I		I
+Cuculus canorus	Sauropsida	69	T		T
+Cuculus canorus	Sauropsida	181	T		T
+Cuculus canorus	Sauropsida	217	T		T
+Cuculus canorus	Sauropsida	403			
+Cyanistes caeruleus	Sauropsida	50	I	I	I
+Cyanistes caeruleus	Sauropsida	69	T	T	T
+Cyanistes caeruleus	Sauropsida	181	T	T	T
+Cyanistes caeruleus	Sauropsida	217	T	T	T
+Cyanistes caeruleus	Sauropsida	403	A	A	A
+Cygnus columbianus	Sauropsida	50	I	I	I
+Cygnus columbianus	Sauropsida	69	T	T	T
+Cygnus columbianus	Sauropsida	181	T	T	T
+Cygnus columbianus	Sauropsida	217	T	T	T
+Cygnus columbianus	Sauropsida	403	A	A	A
+Cygnus olor	Sauropsida	50	I	I	I
+Cygnus olor	Sauropsida	69	T	T	T
+Cygnus olor	Sauropsida	181	T	T	T
+Cygnus olor	Sauropsida	217	T	T	T
+Cygnus olor	Sauropsida	403	A	A	A
+Cyrtonyx montezumae	Sauropsida	50	I	I	I
+Cyrtonyx montezumae	Sauropsida	69	T	T	T
+Cyrtonyx montezumae	Sauropsida	181	T	T	T
+Cyrtonyx montezumae	Sauropsida	217	T	T	T
+Cyrtonyx montezumae	Sauropsida	403	A	A	A
+Dendrobates tinctorius	Amphibia	50			
+Dendrobates tinctorius	Amphibia	69			
+Dendrobates tinctorius	Amphibia	181	T	T	T
+Dendrobates tinctorius	Amphibia	217	M	M	M
+Dendrobates tinctorius	Amphibia	403	T	T	T
+Dendropsophus ebraccatus	Amphibia	50	T	T	T
+Dendropsophus ebraccatus	Amphibia	69			
+Dendropsophus ebraccatus	Amphibia	181	T	T	T
+Dendropsophus ebraccatus	Amphibia	217	M	M	M
+Dendropsophus ebraccatus	Amphibia	403	T	T	T
+Dermochelys coriacea	Sauropsida	50	I	I	I
+Dermochelys coriacea	Sauropsida	69	T	T	T
+Dermochelys coriacea	Sauropsida	181	T	T	T
+Dermochelys coriacea	Sauropsida	217	T	T	T
+Dermochelys coriacea	Sauropsida	403	A	A	A
+Dromaius novaehollandiae	Sauropsida	50	I	I	I
+Dromaius novaehollandiae	Sauropsida	69	T	T	T
+Dromaius novaehollandiae	Sauropsida	181	T	T	T
+Dromaius novaehollandiae	Sauropsida	217	T	T	T
+Dromaius novaehollandiae	Sauropsida	403	A	A	A
+Dryobates pubescens	Sauropsida	50	I	I	I
+Dryobates pubescens	Sauropsida	69	T	T	T
+Dryobates pubescens	Sauropsida	181	T	T	T
+Dryobates pubescens	Sauropsida	217	T	T	T
+Dryobates pubescens	Sauropsida	403	A	A	A
+Egretta garzetta	Sauropsida	50	I	I	I
+Egretta garzetta	Sauropsida	69	T	T	T
+Egretta garzetta	Sauropsida	181	T	T	T
+Egretta garzetta	Sauropsida	217	T	T	T
+Egretta garzetta	Sauropsida	403	A		
+Eleutherodactylus coqui	Amphibia	50			
+Eleutherodactylus coqui	Amphibia	69			
+Eleutherodactylus coqui	Amphibia	181			
+Eleutherodactylus coqui	Amphibia	217	M	M	M
+Eleutherodactylus coqui	Amphibia	403	T	T	T
+Elgaria multicarinata webbii	Sauropsida	50	I	I	I
+Elgaria multicarinata webbii	Sauropsida	69	T	T	T
+Elgaria multicarinata webbii	Sauropsida	181	T	T	T
+Elgaria multicarinata webbii	Sauropsida	217	T	T	T
+Elgaria multicarinata webbii	Sauropsida	403	T	T	T
+Empidonax traillii	Sauropsida	50	I	I	I
+Empidonax traillii	Sauropsida	69	T	T	T
+Empidonax traillii	Sauropsida	181	T	T	T
+Empidonax traillii	Sauropsida	217	T	T	T
+Empidonax traillii	Sauropsida	403	A	A	A
+Emydura macquarii macquarii	Sauropsida	50	I	I	I
+Emydura macquarii macquarii	Sauropsida	69	T	T	T
+Emydura macquarii macquarii	Sauropsida	181	T	T	T
+Emydura macquarii macquarii	Sauropsida	217	T	T	T
+Emydura macquarii macquarii	Sauropsida	403	T	T	T
+Erithacus rubecula	Sauropsida	50	I	I	I
+Erithacus rubecula	Sauropsida	69	T	T	T
+Erithacus rubecula	Sauropsida	181	T	T	T
+Erithacus rubecula	Sauropsida	217	T	T	T
+Erithacus rubecula	Sauropsida	403	A	A	A
+Eublepharis macularius	Sauropsida	50	I	I	I
+Eublepharis macularius	Sauropsida	69	T	T	T
+Eublepharis macularius	Sauropsida	181	T	T	T
+Eublepharis macularius	Sauropsida	217	T	T	T
+Eublepharis macularius	Sauropsida	403	A		
+Euleptes europaea	Sauropsida	50	I	I	I
+Euleptes europaea	Sauropsida	69	T	T	T
+Euleptes europaea	Sauropsida	181	T	T	T
+Euleptes europaea	Sauropsida	217	T	T	T
+Euleptes europaea	Sauropsida	403	A	A	A
+Eurypyga helias	Sauropsida	50			
+Eurypyga helias	Sauropsida	69			
+Eurypyga helias	Sauropsida	181	T	T	T
+Eurypyga helias	Sauropsida	217	T	T	T
+Eurypyga helias	Sauropsida	403			
+Excalfactoria chinensis	Sauropsida	50	I	I	I
+Excalfactoria chinensis	Sauropsida	69	T	T	T
+Excalfactoria chinensis	Sauropsida	181	T	T	T
+Excalfactoria chinensis	Sauropsida	217	T	T	T
+Excalfactoria chinensis	Sauropsida	403	A	A	A
+Falco biarmicus	Sauropsida	50	I	I	I
+Falco biarmicus	Sauropsida	69	T	T	T
+Falco biarmicus	Sauropsida	181	T	T	T
+Falco biarmicus	Sauropsida	217	T	T	T
+Falco biarmicus	Sauropsida	403	A	A	A
+Falco cherrug	Sauropsida	50	I	I	I
+Falco cherrug	Sauropsida	69	T	T	T
+Falco cherrug	Sauropsida	181	T	T	T
+Falco cherrug	Sauropsida	217	T	T	T
+Falco cherrug	Sauropsida	403	A	A	A
+Falco naumanni	Sauropsida	50	I	I	I
+Falco naumanni	Sauropsida	69	T	T	T
+Falco naumanni	Sauropsida	181	T	T	T
+Falco naumanni	Sauropsida	217	T	T	T
+Falco naumanni	Sauropsida	403	A	A	A
+Falco peregrinus	Sauropsida	50	I	I	I
+Falco peregrinus	Sauropsida	69	T	T	T
+Falco peregrinus	Sauropsida	181	T	T	T
+Falco peregrinus	Sauropsida	217	T	T	T
+Falco peregrinus	Sauropsida	403	A	A	A
+Falco punctatus	Sauropsida	50	I	I	I
+Falco punctatus	Sauropsida	69	T	T	T
+Falco punctatus	Sauropsida	181	T	T	T
+Falco punctatus	Sauropsida	217	T	T	T
+Falco punctatus	Sauropsida	403	A	A	A
+Falco rusticolus	Sauropsida	50	I	I	I
+Falco rusticolus	Sauropsida	69	T	T	T
+Falco rusticolus	Sauropsida	181	T	T	T
+Falco rusticolus	Sauropsida	217	T	T	T
+Falco rusticolus	Sauropsida	403	A	A	A
+Ficedula albicollis	Sauropsida	50	I	I	I
+Ficedula albicollis	Sauropsida	69	T	T	T
+Ficedula albicollis	Sauropsida	181	T	T	T
+Ficedula albicollis	Sauropsida	217	P	P	P
+Ficedula albicollis	Sauropsida	403	A	A	A
+Gallinula chloropus	Sauropsida	50	I	I	I
+Gallinula chloropus	Sauropsida	69	T	T	T
+Gallinula chloropus	Sauropsida	181	T	T	T
+Gallinula chloropus	Sauropsida	217	T	T	T
+Gallinula chloropus	Sauropsida	403	A	A	A
+Gallus gallus	Sauropsida	50	I	I	I
+Gallus gallus	Sauropsida	69	T	T	T
+Gallus gallus	Sauropsida	181	T	T	T
+Gallus gallus	Sauropsida	217	T	T	T
+Gallus gallus	Sauropsida	403	A	A	A
+Gavia stellata	Sauropsida	50	I	I	I
+Gavia stellata	Sauropsida	69	T	T	T
+Gavia stellata	Sauropsida	181	T	T	T
+Gavia stellata	Sauropsida	217	T	T	T
+Gavia stellata	Sauropsida	403	A	A	A
+Gavialis gangeticus	Sauropsida	50	I	I	I
+Gavialis gangeticus	Sauropsida	69	T	T	T
+Gavialis gangeticus	Sauropsida	181	T	T	T
+Gavialis gangeticus	Sauropsida	217	T	T	T
+Gavialis gangeticus	Sauropsida	403	A	A	A
+Geospiza fortis	Sauropsida	50	I	I	I
+Geospiza fortis	Sauropsida	69	T	T	T
+Geospiza fortis	Sauropsida	181	T	T	T
+Geospiza fortis	Sauropsida	217	T	T	T
+Geospiza fortis	Sauropsida	403	A	A	A
+Gopherus evgoodei	Sauropsida	50	I		
+Gopherus evgoodei	Sauropsida	69	T		
+Gopherus evgoodei	Sauropsida	181	T	T	T
+Gopherus evgoodei	Sauropsida	217	T	T	T
+Gopherus evgoodei	Sauropsida	403	A	A	A
+Gopherus flavomarginatus	Sauropsida	50	I		
+Gopherus flavomarginatus	Sauropsida	69	T		
+Gopherus flavomarginatus	Sauropsida	181	T	T	T
+Gopherus flavomarginatus	Sauropsida	217	T	T	T
+Gopherus flavomarginatus	Sauropsida	403	A	A	A
+Grus americana	Sauropsida	50	I	I	I
+Grus americana	Sauropsida	69	T	T	T
+Grus americana	Sauropsida	181	T	T	T
+Grus americana	Sauropsida	217	T	T	T
+Grus americana	Sauropsida	403	A	A	A
+Grus grus	Sauropsida	50	I	I	I
+Grus grus	Sauropsida	69	T	T	T
+Grus grus	Sauropsida	181	T	T	T
+Grus grus	Sauropsida	217	T	T	T
+Grus grus	Sauropsida	403	A	A	A
+Gymnogyps californianus	Sauropsida	50	I	I	I
+Gymnogyps californianus	Sauropsida	69	T	T	T
+Gymnogyps californianus	Sauropsida	181	T	T	T
+Gymnogyps californianus	Sauropsida	217	T	T	T
+Gymnogyps californianus	Sauropsida	403	A	A	A
+Haemorhous mexicanus	Sauropsida	50	I	I	I
+Haemorhous mexicanus	Sauropsida	69	T	T	T
+Haemorhous mexicanus	Sauropsida	181	T	T	T
+Haemorhous mexicanus	Sauropsida	217	T	T	T
+Haemorhous mexicanus	Sauropsida	403	A	A	A
+Haliaeetus albicilla	Sauropsida	50	I	I	I
+Haliaeetus albicilla	Sauropsida	69	T	T	T
+Haliaeetus albicilla	Sauropsida	181	T	T	T
+Haliaeetus albicilla	Sauropsida	217	T	T	T
+Haliaeetus albicilla	Sauropsida	403	A	A	A
+Haliaeetus leucocephalus	Sauropsida	50	I	I	I
+Haliaeetus leucocephalus	Sauropsida	69	T	T	T
+Haliaeetus leucocephalus	Sauropsida	181	T	T	T
+Haliaeetus leucocephalus	Sauropsida	217	T	T	T
+Haliaeetus leucocephalus	Sauropsida	403	A	A	A
+Harpia harpyja	Sauropsida	50	I	I	I
+Harpia harpyja	Sauropsida	69	T	T	T
+Harpia harpyja	Sauropsida	181	T	T	T
+Harpia harpyja	Sauropsida	217	T	T	T
+Harpia harpyja	Sauropsida	403	A	A	A
+Heliangelus exortis	Sauropsida	50	I	I	I
+Heliangelus exortis	Sauropsida	69	T	T	T
+Heliangelus exortis	Sauropsida	181	T	T	T
+Heliangelus exortis	Sauropsida	217	T	T	T
+Heliangelus exortis	Sauropsida	403	A	A	A
+Heteronotia binoei	Sauropsida	50	I	I	I
+Heteronotia binoei	Sauropsida	69	T	T	T
+Heteronotia binoei	Sauropsida	181	T	T	T
+Heteronotia binoei	Sauropsida	217	T	T	T
+Heteronotia binoei	Sauropsida	403	A	A	A
+Hirundo rustica	Sauropsida	50	I	I	I
+Hirundo rustica	Sauropsida	69	T	T	T
+Hirundo rustica	Sauropsida	181	T	T	T
+Hirundo rustica	Sauropsida	217	T	T	T
+Hirundo rustica	Sauropsida	403	A	A	A
+Hyla sarda	Amphibia	50	T		
+Hyla sarda	Amphibia	69			
+Hyla sarda	Amphibia	181	T	T	T
+Hyla sarda	Amphibia	217	M	M	M
+Hyla sarda	Amphibia	403	T	T	T
+Hyperolius riggenbachi	Amphibia	50			
+Hyperolius riggenbachi	Amphibia	69			
+Hyperolius riggenbachi	Amphibia	181	T	T	T
+Hyperolius riggenbachi	Amphibia	217	A	A	A
+Hyperolius riggenbachi	Amphibia	403	T	T	T
+Indicator indicator	Sauropsida	50	I	I	I
+Indicator indicator	Sauropsida	69	T	T	T
+Indicator indicator	Sauropsida	181	T	T	T
+Indicator indicator	Sauropsida	217			
+Indicator indicator	Sauropsida	403	A	A	A
+Lacerta agilis	Sauropsida	50	I	I	I
+Lacerta agilis	Sauropsida	69	T	T	T
+Lacerta agilis	Sauropsida	181	T	T	T
+Lacerta agilis	Sauropsida	217	T	T	T
+Lacerta agilis	Sauropsida	403	A	A	A
+Lagopus leucura	Sauropsida	50	I	I	I
+Lagopus leucura	Sauropsida	69	T	T	T
+Lagopus leucura	Sauropsida	181	T	T	T
+Lagopus leucura	Sauropsida	217	T	T	T
+Lagopus leucura	Sauropsida	403	A	A	A
+Lagopus muta	Sauropsida	50	I	I	I
+Lagopus muta	Sauropsida	69	T	T	T
+Lagopus muta	Sauropsida	181	T	T	T
+Lagopus muta	Sauropsida	217	T	T	T
+Lagopus muta	Sauropsida	403	A	A	A
+Larus argentatus	Sauropsida	50	I	I	I
+Larus argentatus	Sauropsida	69	T	T	T
+Larus argentatus	Sauropsida	181	T	T	T
+Larus argentatus	Sauropsida	217	T	T	T
+Larus argentatus	Sauropsida	403	A		
+Larus michahellis	Sauropsida	50	I	I	I
+Larus michahellis	Sauropsida	69	T	T	T
+Larus michahellis	Sauropsida	181	T	T	T
+Larus michahellis	Sauropsida	217	T	T	T
+Larus michahellis	Sauropsida	403	A		
+Lathamus discolor	Sauropsida	50	I	I	I
+Lathamus discolor	Sauropsida	69	T	T	T
+Lathamus discolor	Sauropsida	181	T	T	T
+Lathamus discolor	Sauropsida	217	T	T	T
+Lathamus discolor	Sauropsida	403	A	A	A
+Lepidochelys kempii	Sauropsida	50	I		I
+Lepidochelys kempii	Sauropsida	69	T		T
+Lepidochelys kempii	Sauropsida	181	T		T
+Lepidochelys kempii	Sauropsida	217	T		T
+Lepidochelys kempii	Sauropsida	403	A		A
+Lepidochelys olivacea	Sauropsida	50	I	I	I
+Lepidochelys olivacea	Sauropsida	69	T	T	T
+Lepidochelys olivacea	Sauropsida	181	T	T	T
+Lepidochelys olivacea	Sauropsida	217	T	T	T
+Lepidochelys olivacea	Sauropsida	403	A	A	A
+Lepidothrix coronata	Sauropsida	50	I	I	I
+Lepidothrix coronata	Sauropsida	69	T	T	T
+Lepidothrix coronata	Sauropsida	181	T	T	T
+Lepidothrix coronata	Sauropsida	217	T	T	T
+Lepidothrix coronata	Sauropsida	403			
+Leptosomus discolor	Sauropsida	50	I	I	I
+Leptosomus discolor	Sauropsida	69	T	T	T
+Leptosomus discolor	Sauropsida	181	T	T	T
+Leptosomus discolor	Sauropsida	217	T	T	T
+Leptosomus discolor	Sauropsida	403	A	A	A
+Lichenostomus cassidix	Sauropsida	50	I	I	I
+Lichenostomus cassidix	Sauropsida	69	T	T	T
+Lichenostomus cassidix	Sauropsida	181	T	T	T
+Lichenostomus cassidix	Sauropsida	217	T	T	T
+Lichenostomus cassidix	Sauropsida	403	A	A	A
+Lissotriton helveticus	Amphibia	50			
+Lissotriton helveticus	Amphibia	69	T		
+Lissotriton helveticus	Amphibia	181			
+Lissotriton helveticus	Amphibia	217			
+Lissotriton helveticus	Amphibia	403	T	T	T
+Lissotriton vulgaris	Amphibia	50			
+Lissotriton vulgaris	Amphibia	69	T		
+Lissotriton vulgaris	Amphibia	181			
+Lissotriton vulgaris	Amphibia	217			
+Lissotriton vulgaris	Amphibia	403	T	T	T
+Lonchura striata	Sauropsida	50	I	I	I
+Lonchura striata	Sauropsida	69	T	T	T
+Lonchura striata	Sauropsida	181	T	T	T
+Lonchura striata	Sauropsida	217	T	T	T
+Lonchura striata	Sauropsida	403	A	A	A
+Malaclemys terrapin pileata	Sauropsida	50	I	K	K
+Malaclemys terrapin pileata	Sauropsida	69	T		
+Malaclemys terrapin pileata	Sauropsida	181	T	T	T
+Malaclemys terrapin pileata	Sauropsida	217	T	T	T
+Malaclemys terrapin pileata	Sauropsida	403	A	A	A
+Malurus melanocephalus	Sauropsida	50	I	I	I
+Malurus melanocephalus	Sauropsida	69	T	T	T
+Malurus melanocephalus	Sauropsida	181	T	T	T
+Malurus melanocephalus	Sauropsida	217	T	T	T
+Malurus melanocephalus	Sauropsida	403	A	A	A
+Manacus candei	Sauropsida	50	I	I	I
+Manacus candei	Sauropsida	69	T	T	T
+Manacus candei	Sauropsida	181	T	T	T
+Manacus candei	Sauropsida	217	T	T	T
+Manacus candei	Sauropsida	403	A	A	A
+Manacus vitellinus	Sauropsida	50	I	I	I
+Manacus vitellinus	Sauropsida	69	T	T	T
+Manacus vitellinus	Sauropsida	181	T	T	T
+Manacus vitellinus	Sauropsida	217	T	T	T
+Manacus vitellinus	Sauropsida	403			
+Mauremys mutica	Sauropsida	50	I	I	I
+Mauremys mutica	Sauropsida	69	T	T	T
+Mauremys mutica	Sauropsida	181	T	T	T
+Mauremys mutica	Sauropsida	217	T	T	T
+Mauremys mutica	Sauropsida	403	A	A	A
+Mauremys reevesii	Sauropsida	50	I		
+Mauremys reevesii	Sauropsida	69	T		
+Mauremys reevesii	Sauropsida	181	T	T	T
+Mauremys reevesii	Sauropsida	217	T	T	T
+Mauremys reevesii	Sauropsida	403	A	A	A
+Melanerpes formicivorus	Sauropsida	50	I	I	I
+Melanerpes formicivorus	Sauropsida	69	T	T	T
+Melanerpes formicivorus	Sauropsida	181	T	T	T
+Melanerpes formicivorus	Sauropsida	217	T	T	T
+Melanerpes formicivorus	Sauropsida	403	A	A	A
+Meleagris gallopavo	Sauropsida	50	I	I	I
+Meleagris gallopavo	Sauropsida	69	T	T	T
+Meleagris gallopavo	Sauropsida	181	T	T	T
+Meleagris gallopavo	Sauropsida	217	T	T	T
+Meleagris gallopavo	Sauropsida	403	A	A	A
+Melopsittacus undulatus	Sauropsida	50	I	I	I
+Melopsittacus undulatus	Sauropsida	69	T	T	T
+Melopsittacus undulatus	Sauropsida	181	T	T	T
+Melopsittacus undulatus	Sauropsida	217	T	T	T
+Melopsittacus undulatus	Sauropsida	403	P	P	P
+Melospiza georgiana	Sauropsida	50	I	I	I
+Melospiza georgiana	Sauropsida	69	T	T	T
+Melospiza georgiana	Sauropsida	181	T	T	T
+Melospiza georgiana	Sauropsida	217	T	T	T
+Melospiza georgiana	Sauropsida	403	A	A	A
+Melospiza melodia melodia	Sauropsida	50	I	I	I
+Melospiza melodia melodia	Sauropsida	69	T	T	T
+Melospiza melodia melodia	Sauropsida	181	T	T	T
+Melospiza melodia melodia	Sauropsida	217	T	T	T
+Melospiza melodia melodia	Sauropsida	403	A	A	A
+Melozone crissalis	Sauropsida	50	I	I	I
+Melozone crissalis	Sauropsida	69	T	T	T
+Melozone crissalis	Sauropsida	181	T	T	T
+Melozone crissalis	Sauropsida	217	T	T	T
+Melozone crissalis	Sauropsida	403	A	A	A
+Mesitornis unicolor	Sauropsida	50	I	I	I
+Mesitornis unicolor	Sauropsida	69	T	T	T
+Mesitornis unicolor	Sauropsida	181	T	T	T
+Mesitornis unicolor	Sauropsida	217	T	T	T
+Mesitornis unicolor	Sauropsida	403	T	T	T
+Microcaecilia unicolor	Amphibia	50	S		S
+Microcaecilia unicolor	Amphibia	69	T		T
+Microcaecilia unicolor	Amphibia	181			
+Microcaecilia unicolor	Amphibia	217			
+Microcaecilia unicolor	Amphibia	403	T		T
+Mixophyes fleayi	Amphibia	50			
+Mixophyes fleayi	Amphibia	69			
+Mixophyes fleayi	Amphibia	181	T	T	T
+Mixophyes fleayi	Amphibia	217	L	L	L
+Mixophyes fleayi	Amphibia	403	T	T	T
+Molothrus aeneus	Sauropsida	50	I	I	I
+Molothrus aeneus	Sauropsida	69	T	T	T
+Molothrus aeneus	Sauropsida	181	T	T	T
+Molothrus aeneus	Sauropsida	217	T	T	T
+Molothrus aeneus	Sauropsida	403	A	A	A
+Molothrus ater	Sauropsida	50	I	I	I
+Molothrus ater	Sauropsida	69	T	T	T
+Molothrus ater	Sauropsida	181	T	T	T
+Molothrus ater	Sauropsida	217	T	T	T
+Molothrus ater	Sauropsida	403	A	A	A
+Motacilla alba alba	Sauropsida	50	I	I	I
+Motacilla alba alba	Sauropsida	69	T	T	T
+Motacilla alba alba	Sauropsida	181	T	T	T
+Motacilla alba alba	Sauropsida	217	T	T	T
+Motacilla alba alba	Sauropsida	403	A	A	A
+Mycteria americana	Sauropsida	50	I	I	I
+Mycteria americana	Sauropsida	69	T	T	T
+Mycteria americana	Sauropsida	181	T	T	T
+Mycteria americana	Sauropsida	217	T	T	T
+Mycteria americana	Sauropsida	403	A	A	A
+Myiozetetes cayanensis	Sauropsida	50	I	I	I
+Myiozetetes cayanensis	Sauropsida	69	T	T	T
+Myiozetetes cayanensis	Sauropsida	181	T	T	T
+Myiozetetes cayanensis	Sauropsida	217	T	T	T
+Myiozetetes cayanensis	Sauropsida	403	A	A	A
+Natator depressus	Sauropsida	50	I	I	I
+Natator depressus	Sauropsida	69	T	T	T
+Natator depressus	Sauropsida	181	T	T	T
+Natator depressus	Sauropsida	217	T	T	T
+Natator depressus	Sauropsida	403	A	A	A
+Natrix helvetica	Sauropsida	50	I	I	I
+Natrix helvetica	Sauropsida	69	T	T	T
+Natrix helvetica	Sauropsida	181	T	T	T
+Natrix helvetica	Sauropsida	217	T	T	T
+Natrix helvetica	Sauropsida	403	A	A	A
+Neopelma chrysocephalum	Sauropsida	50	I	I	I
+Neopelma chrysocephalum	Sauropsida	69	T	T	T
+Neopelma chrysocephalum	Sauropsida	181	T	T	T
+Neopelma chrysocephalum	Sauropsida	217	T	T	T
+Neopelma chrysocephalum	Sauropsida	403	A	A	A
+Neopsephotus bourkii	Sauropsida	50	I	I	I
+Neopsephotus bourkii	Sauropsida	69	T	T	T
+Neopsephotus bourkii	Sauropsida	181	T	T	T
+Neopsephotus bourkii	Sauropsida	217	T	T	T
+Neopsephotus bourkii	Sauropsida	403	A	A	A
+Nesoenas mayeri	Sauropsida	50	I	I	I
+Nesoenas mayeri	Sauropsida	69	T	T	T
+Nesoenas mayeri	Sauropsida	181	T	T	T
+Nesoenas mayeri	Sauropsida	217	T	T	T
+Nesoenas mayeri	Sauropsida	403	A	A	A
+Nestor notabilis	Sauropsida	50	I	I	I
+Nestor notabilis	Sauropsida	69	T	T	T
+Nestor notabilis	Sauropsida	181	T	T	T
+Nestor notabilis	Sauropsida	217	T	T	T
+Nestor notabilis	Sauropsida	403			
+Netta rufina	Sauropsida	50	I	I	I
+Netta rufina	Sauropsida	69	T	T	T
+Netta rufina	Sauropsida	181	T	T	T
+Netta rufina	Sauropsida	217	T	T	T
+Netta rufina	Sauropsida	403	A	A	A
+Nipponia nippon	Sauropsida	50	I	I	I
+Nipponia nippon	Sauropsida	69	T	T	T
+Nipponia nippon	Sauropsida	181	T	T	T
+Nipponia nippon	Sauropsida	217	T	T	T
+Nipponia nippon	Sauropsida	403	A	A	A
+Notechis scutatus	Sauropsida	50	I	I	I
+Notechis scutatus	Sauropsida	69	T	T	T
+Notechis scutatus	Sauropsida	181	T	T	T
+Notechis scutatus	Sauropsida	217	T	T	T
+Notechis scutatus	Sauropsida	403	A	A	A
+Nothoprocta perdicaria	Sauropsida	50	I	I	I
+Nothoprocta perdicaria	Sauropsida	69	T	T	T
+Nothoprocta perdicaria	Sauropsida	181	T	T	T
+Nothoprocta perdicaria	Sauropsida	217	T	T	T
+Nothoprocta perdicaria	Sauropsida	403	A	A	A
+Numenius arquata	Sauropsida	50	I	I	I
+Numenius arquata	Sauropsida	69	T	T	T
+Numenius arquata	Sauropsida	181	T	T	T
+Numenius arquata	Sauropsida	217	T	T	T
+Numenius arquata	Sauropsida	403	A	A	A
+Numida meleagris	Sauropsida	50	I	I	I
+Numida meleagris	Sauropsida	69	T	T	T
+Numida meleagris	Sauropsida	181	T	T	T
+Numida meleagris	Sauropsida	217	T	T	T
+Numida meleagris	Sauropsida	403	A	A	A
+Nyctibius grandis	Sauropsida	50	I	I	I
+Nyctibius grandis	Sauropsida	69	T	T	T
+Nyctibius grandis	Sauropsida	181	T	T	T
+Nyctibius grandis	Sauropsida	217	T	T	T
+Nyctibius grandis	Sauropsida	403	A	A	A
+Oenanthe melanoleuca	Sauropsida	50	I	I	I
+Oenanthe melanoleuca	Sauropsida	69	T	T	T
+Oenanthe melanoleuca	Sauropsida	181	T	T	T
+Oenanthe melanoleuca	Sauropsida	217	T	T	T
+Oenanthe melanoleuca	Sauropsida	403	A	A	A
+Onychostruthus taczanowskii	Sauropsida	50	I	I	I
+Onychostruthus taczanowskii	Sauropsida	69	T	T	T
+Onychostruthus taczanowskii	Sauropsida	181	T	T	T
+Onychostruthus taczanowskii	Sauropsida	217	T	T	T
+Onychostruthus taczanowskii	Sauropsida	403	A	A	A
+Opisthocomus hoazin	Sauropsida	50	I	I	I
+Opisthocomus hoazin	Sauropsida	69	T	T	T
+Opisthocomus hoazin	Sauropsida	181	T	T	T
+Opisthocomus hoazin	Sauropsida	217	T	T	T
+Opisthocomus hoazin	Sauropsida	403	A	A	A
+Oxyura jamaicensis	Sauropsida	50	I	I	I
+Oxyura jamaicensis	Sauropsida	69	T	T	T
+Oxyura jamaicensis	Sauropsida	181	T	T	T
+Oxyura jamaicensis	Sauropsida	217	T	T	T
+Oxyura jamaicensis	Sauropsida	403	A	A	A
+Pantherophis guttatus	Sauropsida	50	I	I	I
+Pantherophis guttatus	Sauropsida	69	T	T	T
+Pantherophis guttatus	Sauropsida	181	T	T	T
+Pantherophis guttatus	Sauropsida	217	T	T	T
+Pantherophis guttatus	Sauropsida	403	A	A	A
+Paroedura picta	Sauropsida	50	I	I	I
+Paroedura picta	Sauropsida	69	T	T	T
+Paroedura picta	Sauropsida	181	T	T	T
+Paroedura picta	Sauropsida	217	T	T	T
+Paroedura picta	Sauropsida	403	A	A	A
+Parus major	Sauropsida	50	I	I	I
+Parus major	Sauropsida	69	T	T	T
+Parus major	Sauropsida	181	T	T	T
+Parus major	Sauropsida	217	T	T	T
+Parus major	Sauropsida	403	A	A	A
+Passer domesticus	Sauropsida	50	I	I	I
+Passer domesticus	Sauropsida	69	T	T	T
+Passer domesticus	Sauropsida	181	T	T	T
+Passer domesticus	Sauropsida	217	T	T	T
+Passer domesticus	Sauropsida	403	A	A	A
+Passer montanus	Sauropsida	50	I	I	I
+Passer montanus	Sauropsida	69	T	T	T
+Passer montanus	Sauropsida	181	T	T	T
+Passer montanus	Sauropsida	217	T	T	T
+Passer montanus	Sauropsida	403	A	A	A
+Patagioenas fasciata	Sauropsida	50	I	I	I
+Patagioenas fasciata	Sauropsida	69	T	T	T
+Patagioenas fasciata	Sauropsida	181	T	T	T
+Patagioenas fasciata	Sauropsida	217	T	T	T
+Patagioenas fasciata	Sauropsida	403	A	A	A
+Pelodiscus sinensis	Sauropsida	50	I		
+Pelodiscus sinensis	Sauropsida	69	T		
+Pelodiscus sinensis	Sauropsida	181	T	T	T
+Pelodiscus sinensis	Sauropsida	217	T	T	T
+Pelodiscus sinensis	Sauropsida	403	A	A	A
+Pezoporus flaviventris	Sauropsida	50	I	I	I
+Pezoporus flaviventris	Sauropsida	69	T	T	T
+Pezoporus flaviventris	Sauropsida	181	T	T	T
+Pezoporus flaviventris	Sauropsida	217	T	T	T
+Pezoporus flaviventris	Sauropsida	403	A	A	A
+Pezoporus occidentalis	Sauropsida	50	I	I	I
+Pezoporus occidentalis	Sauropsida	69	T	T	T
+Pezoporus occidentalis	Sauropsida	181	T	T	T
+Pezoporus occidentalis	Sauropsida	217	T	T	T
+Pezoporus occidentalis	Sauropsida	403	A	A	A
+Pezoporus wallicus	Sauropsida	50	I	I	I
+Pezoporus wallicus	Sauropsida	69	T	T	T
+Pezoporus wallicus	Sauropsida	181	T	T	T
+Pezoporus wallicus	Sauropsida	217	T	T	T
+Pezoporus wallicus	Sauropsida	403	A	A	A
+Phaenicophaeus curvirostris	Sauropsida	50	I	I	I
+Phaenicophaeus curvirostris	Sauropsida	69	T	T	T
+Phaenicophaeus curvirostris	Sauropsida	181	T	T	T
+Phaenicophaeus curvirostris	Sauropsida	217	T	T	T
+Phaenicophaeus curvirostris	Sauropsida	403	A	A	A
+Phaethon aethereus	Sauropsida	50	I	I	I
+Phaethon aethereus	Sauropsida	69	T	T	T
+Phaethon aethereus	Sauropsida	181	T	T	T
+Phaethon aethereus	Sauropsida	217	T	T	T
+Phaethon aethereus	Sauropsida	403	A	A	A
+Phaethon lepturus	Sauropsida	50	I	I	I
+Phaethon lepturus	Sauropsida	69	T	T	T
+Phaethon lepturus	Sauropsida	181	T	T	T
+Phaethon lepturus	Sauropsida	217	T	T	T
+Phaethon lepturus	Sauropsida	403	A	A	A
+Phalacrocorax aristotelis	Sauropsida	50	I	I	I
+Phalacrocorax aristotelis	Sauropsida	69	T	T	T
+Phalacrocorax aristotelis	Sauropsida	181	T	T	T
+Phalacrocorax aristotelis	Sauropsida	217	T	T	T
+Phalacrocorax aristotelis	Sauropsida	403	A	A	A
+Phalacrocorax carbo	Sauropsida	50	I	I	I
+Phalacrocorax carbo	Sauropsida	69	T	T	T
+Phalacrocorax carbo	Sauropsida	181	T	T	T
+Phalacrocorax carbo	Sauropsida	217	T	T	T
+Phalacrocorax carbo	Sauropsida	403	A	A	A
+Phasianus colchicus	Sauropsida	50	I	I	I
+Phasianus colchicus	Sauropsida	69	T	T	T
+Phasianus colchicus	Sauropsida	181	T	T	T
+Phasianus colchicus	Sauropsida	217	T	T	T
+Phasianus colchicus	Sauropsida	403	A	A	A
+Phyllobates terribilis	Amphibia	50			
+Phyllobates terribilis	Amphibia	69			
+Phyllobates terribilis	Amphibia	181	T	T	T
+Phyllobates terribilis	Amphibia	217	M	M	M
+Phyllobates terribilis	Amphibia	403	T	T	T
+Pipra filicauda	Sauropsida	50	I		
+Pipra filicauda	Sauropsida	69	T		
+Pipra filicauda	Sauropsida	181	T	T	T
+Pipra filicauda	Sauropsida	217	T	T	T
+Pipra filicauda	Sauropsida	403	A		
+Pithys albifrons albifrons	Sauropsida	50	I	I	I
+Pithys albifrons albifrons	Sauropsida	69	T	T	T
+Pithys albifrons albifrons	Sauropsida	181	T	T	T
+Pithys albifrons albifrons	Sauropsida	217	T	T	T
+Pithys albifrons albifrons	Sauropsida	403	A	A	A
+Platalea leucorodia	Sauropsida	50	I	I	I
+Platalea leucorodia	Sauropsida	69	T	T	T
+Platalea leucorodia	Sauropsida	181	T	T	T
+Platalea leucorodia	Sauropsida	217	T	T	T
+Platalea leucorodia	Sauropsida	403	A	A	A
+Pleurodeles waltl	Amphibia	50			
+Pleurodeles waltl	Amphibia	69	T	T	T
+Pleurodeles waltl	Amphibia	181			
+Pleurodeles waltl	Amphibia	217			
+Pleurodeles waltl	Amphibia	403	T	T	T
+Podarcis bocagei	Sauropsida	50	I		
+Podarcis bocagei	Sauropsida	69	T		
+Podarcis bocagei	Sauropsida	181	T	T	T
+Podarcis bocagei	Sauropsida	217	T	T	T
+Podarcis bocagei	Sauropsida	403	A	A	A
+Podarcis cretensis	Sauropsida	50	I		
+Podarcis cretensis	Sauropsida	69	T		
+Podarcis cretensis	Sauropsida	181	T	T	T
+Podarcis cretensis	Sauropsida	217	T	T	T
+Podarcis cretensis	Sauropsida	403	A	A	A
+Podarcis erhardii	Sauropsida	50	I		
+Podarcis erhardii	Sauropsida	69	T		
+Podarcis erhardii	Sauropsida	181	T	T	T
+Podarcis erhardii	Sauropsida	217	T	T	T
+Podarcis erhardii	Sauropsida	403	A	A	A
+Podarcis filfolensis	Sauropsida	50	I		
+Podarcis filfolensis	Sauropsida	69	T		
+Podarcis filfolensis	Sauropsida	181	T	T	T
+Podarcis filfolensis	Sauropsida	217	T	T	T
+Podarcis filfolensis	Sauropsida	403	A	A	A
+Podarcis gaigeae	Sauropsida	50	I	I	I
+Podarcis gaigeae	Sauropsida	69	T	T	T
+Podarcis gaigeae	Sauropsida	181	T	T	T
+Podarcis gaigeae	Sauropsida	217	T	T	T
+Podarcis gaigeae	Sauropsida	403	A	A	A
+Podarcis liolepis	Sauropsida	50	I		
+Podarcis liolepis	Sauropsida	69	T		
+Podarcis liolepis	Sauropsida	181	T	T	T
+Podarcis liolepis	Sauropsida	217	T	T	T
+Podarcis liolepis	Sauropsida	403	A	A	A
+Podarcis melisellensis	Sauropsida	50	I		
+Podarcis melisellensis	Sauropsida	69	T		
+Podarcis melisellensis	Sauropsida	181	T	T	T
+Podarcis melisellensis	Sauropsida	217	T	T	T
+Podarcis melisellensis	Sauropsida	403	A	A	A
+Podarcis muralis	Sauropsida	50	I	I	I
+Podarcis muralis	Sauropsida	69	T	T	T
+Podarcis muralis	Sauropsida	181	T	T	T
+Podarcis muralis	Sauropsida	217	T	T	T
+Podarcis muralis	Sauropsida	403	A	A	A
+Podarcis pityusensis	Sauropsida	50	I		
+Podarcis pityusensis	Sauropsida	69	T		
+Podarcis pityusensis	Sauropsida	181	T	T	T
+Podarcis pityusensis	Sauropsida	217	T	T	T
+Podarcis pityusensis	Sauropsida	403	A	A	A
+Podarcis raffonei	Sauropsida	50	I	I	I
+Podarcis raffonei	Sauropsida	69	T	T	T
+Podarcis raffonei	Sauropsida	181	T	T	T
+Podarcis raffonei	Sauropsida	217	T	T	T
+Podarcis raffonei	Sauropsida	403	A	A	A
+Podarcis tiliguerta	Sauropsida	50	I	I	I
+Podarcis tiliguerta	Sauropsida	69	T	T	T
+Podarcis tiliguerta	Sauropsida	181	T	T	T
+Podarcis tiliguerta	Sauropsida	217	T	T	T
+Podarcis tiliguerta	Sauropsida	403	A	A	A
+Podarcis vaucheri	Sauropsida	50	I		
+Podarcis vaucheri	Sauropsida	69	T		
+Podarcis vaucheri	Sauropsida	181	T	T	T
+Podarcis vaucheri	Sauropsida	217	T	T	T
+Podarcis vaucheri	Sauropsida	403	A	A	A
+Poecile atricapillus	Sauropsida	50	I	I	I
+Poecile atricapillus	Sauropsida	69	T	T	T
+Poecile atricapillus	Sauropsida	181	T	T	T
+Poecile atricapillus	Sauropsida	217	T	T	T
+Poecile atricapillus	Sauropsida	403	A	A	A
+Pogoniulus pusillus	Sauropsida	50	I	I	I
+Pogoniulus pusillus	Sauropsida	69	T	T	T
+Pogoniulus pusillus	Sauropsida	181	T	T	T
+Pogoniulus pusillus	Sauropsida	217	T	T	T
+Pogoniulus pusillus	Sauropsida	403	A	A	A
+Prinia subflava	Sauropsida	50	I	I	I
+Prinia subflava	Sauropsida	69	T	T	T
+Prinia subflava	Sauropsida	181	T	T	T
+Prinia subflava	Sauropsida	217	T	T	T
+Prinia subflava	Sauropsida	403	A		
+Protobothrops mucrosquamatus	Sauropsida	50	I	I	I
+Protobothrops mucrosquamatus	Sauropsida	69	T	T	T
+Protobothrops mucrosquamatus	Sauropsida	181	T	T	T
+Protobothrops mucrosquamatus	Sauropsida	217	T	T	T
+Protobothrops mucrosquamatus	Sauropsida	403	A	A	A
+Pseudonaja textilis	Sauropsida	50	I	I	I
+Pseudonaja textilis	Sauropsida	69	T	T	T
+Pseudonaja textilis	Sauropsida	181	T	T	T
+Pseudonaja textilis	Sauropsida	217	T	T	T
+Pseudonaja textilis	Sauropsida	403	A	A	A
+Pseudopipra pipra	Sauropsida	50	I	I	I
+Pseudopipra pipra	Sauropsida	69	T	T	T
+Pseudopipra pipra	Sauropsida	181	T	T	T
+Pseudopipra pipra	Sauropsida	217	T	T	T
+Pseudopipra pipra	Sauropsida	403	A	A	A
+Pseudopodoces humilis	Sauropsida	50	I	I	I
+Pseudopodoces humilis	Sauropsida	69	T	T	T
+Pseudopodoces humilis	Sauropsida	181	T	T	T
+Pseudopodoces humilis	Sauropsida	217	T	T	T
+Pseudopodoces humilis	Sauropsida	403	A	A	A
+Psittacula echo	Sauropsida	50	I	I	I
+Psittacula echo	Sauropsida	69	T	T	T
+Psittacula echo	Sauropsida	181	T	T	T
+Psittacula echo	Sauropsida	217	T	T	T
+Psittacula echo	Sauropsida	403	A	A	A
+Pygoscelis adeliae	Sauropsida	50	I	I	I
+Pygoscelis adeliae	Sauropsida	69	T	T	T
+Pygoscelis adeliae	Sauropsida	181	T	T	T
+Pygoscelis adeliae	Sauropsida	217	T	T	T
+Pygoscelis adeliae	Sauropsida	403	A	A	A
+Pyrgilauda ruficollis	Sauropsida	50	I	I	I
+Pyrgilauda ruficollis	Sauropsida	69	T	T	T
+Pyrgilauda ruficollis	Sauropsida	181	T	T	T
+Pyrgilauda ruficollis	Sauropsida	217	T	T	T
+Pyrgilauda ruficollis	Sauropsida	403	A	A	A
+Python bivittatus	Sauropsida	50	I	I	I
+Python bivittatus	Sauropsida	69	T	T	T
+Python bivittatus	Sauropsida	181	T	T	T
+Python bivittatus	Sauropsida	217	T	T	T
+Python bivittatus	Sauropsida	403	A	A	A
+Ranitomeya imitator	Amphibia	50			
+Ranitomeya imitator	Amphibia	69	E	E	E
+Ranitomeya imitator	Amphibia	181	T	T	T
+Ranitomeya imitator	Amphibia	217	L	L	L
+Ranitomeya imitator	Amphibia	403	T	T	T
+Rhea americana	Sauropsida	50	I	I	I
+Rhea americana	Sauropsida	69	T	T	T
+Rhea americana	Sauropsida	181	T	T	T
+Rhea americana	Sauropsida	217	T	T	T
+Rhea americana	Sauropsida	403	A	A	A
+Rhea pennata	Sauropsida	50	I	I	I
+Rhea pennata	Sauropsida	69	T	T	T
+Rhea pennata	Sauropsida	181	T	T	T
+Rhea pennata	Sauropsida	217	T	T	T
+Rhea pennata	Sauropsida	403	A	A	A
+Rhineura floridana	Sauropsida	50	I	I	I
+Rhineura floridana	Sauropsida	69	T	T	T
+Rhineura floridana	Sauropsida	181	T	T	T
+Rhineura floridana	Sauropsida	217	T	T	T
+Rhineura floridana	Sauropsida	403	A	A	A
+Rissa tridactyla	Sauropsida	50	I	I	I
+Rissa tridactyla	Sauropsida	69	T	T	T
+Rissa tridactyla	Sauropsida	181	T	T	T
+Rissa tridactyla	Sauropsida	217	T	T	T
+Rissa tridactyla	Sauropsida	403	A		
+Sceloporus occidentalis	Sauropsida	50	I	I	I
+Sceloporus occidentalis	Sauropsida	69	T	T	T
+Sceloporus occidentalis	Sauropsida	181	T	T	T
+Sceloporus occidentalis	Sauropsida	217	T	T	T
+Sceloporus occidentalis	Sauropsida	403	A	A	A
+Sceloporus undulatus	Sauropsida	50	I		
+Sceloporus undulatus	Sauropsida	69	T		
+Sceloporus undulatus	Sauropsida	181	T	T	T
+Sceloporus undulatus	Sauropsida	217	T	T	T
+Sceloporus undulatus	Sauropsida	403	A	A	A
+Serinus canaria	Sauropsida	50	I	I	I
+Serinus canaria	Sauropsida	69	T	T	T
+Serinus canaria	Sauropsida	181	T	T	T
+Serinus canaria	Sauropsida	217	T	T	T
+Serinus canaria	Sauropsida	403	A	A	A
+Sphaerodactylus townsendi	Sauropsida	50	I	I	I
+Sphaerodactylus townsendi	Sauropsida	69	T	T	T
+Sphaerodactylus townsendi	Sauropsida	181	T	T	T
+Sphaerodactylus townsendi	Sauropsida	217	T	T	T
+Sphaerodactylus townsendi	Sauropsida	403	A	A	A
+Streptopelia decaocto	Sauropsida	50	I	I	I
+Streptopelia decaocto	Sauropsida	69	T	T	T
+Streptopelia decaocto	Sauropsida	181	T	T	T
+Streptopelia decaocto	Sauropsida	217	T	T	T
+Streptopelia decaocto	Sauropsida	403	A	A	A
+Strigops habroptila	Sauropsida	50	I	I	I
+Strigops habroptila	Sauropsida	69	T	T	T
+Strigops habroptila	Sauropsida	181	T	T	T
+Strigops habroptila	Sauropsida	217	T	T	T
+Strigops habroptila	Sauropsida	403	A	A	A
+Strix aluco	Sauropsida	50	I	I	I
+Strix aluco	Sauropsida	69	T	T	T
+Strix aluco	Sauropsida	181	T	T	T
+Strix aluco	Sauropsida	217	T	T	T
+Strix aluco	Sauropsida	403	A	A	A
+Strix uralensis	Sauropsida	50	I	I	I
+Strix uralensis	Sauropsida	69	T	T	T
+Strix uralensis	Sauropsida	181	T	T	T
+Strix uralensis	Sauropsida	217	T	T	T
+Strix uralensis	Sauropsida	403	A	A	A
+Struthio camelus	Sauropsida	50	I	I	I
+Struthio camelus	Sauropsida	69	T	T	T
+Struthio camelus	Sauropsida	181	T	T	T
+Struthio camelus	Sauropsida	217	T	T	T
+Struthio camelus	Sauropsida	403	A	A	A
+Sturnus vulgaris	Sauropsida	50	I	I	I
+Sturnus vulgaris	Sauropsida	69	T	T	T
+Sturnus vulgaris	Sauropsida	181	T	T	T
+Sturnus vulgaris	Sauropsida	217	T	T	T
+Sturnus vulgaris	Sauropsida	403	A	A	A
+Sylvia atricapilla	Sauropsida	50	I	I	I
+Sylvia atricapilla	Sauropsida	69	T	T	T
+Sylvia atricapilla	Sauropsida	181	T	T	T
+Sylvia atricapilla	Sauropsida	217	T	T	T
+Sylvia atricapilla	Sauropsida	403	A	A	A
+Taeniopygia guttata	Sauropsida	50	I	I	I
+Taeniopygia guttata	Sauropsida	69	T	T	T
+Taeniopygia guttata	Sauropsida	181	T	T	T
+Taeniopygia guttata	Sauropsida	217	T	T	T
+Taeniopygia guttata	Sauropsida	403	A	A	A
+Terrapene triunguis	Sauropsida	50	I	I	I
+Terrapene triunguis	Sauropsida	69	T	T	T
+Terrapene triunguis	Sauropsida	181	T	T	T
+Terrapene triunguis	Sauropsida	217	T	T	T
+Terrapene triunguis	Sauropsida	403	A	A	A
+Tetrao urogallus	Sauropsida	50	I	I	I
+Tetrao urogallus	Sauropsida	69	T	T	T
+Tetrao urogallus	Sauropsida	181	T	T	T
+Tetrao urogallus	Sauropsida	217	T	T	T
+Tetrao urogallus	Sauropsida	403	A	A	A
+Thamnophis elegans	Sauropsida	50	I	I	I
+Thamnophis elegans	Sauropsida	69	T	T	T
+Thamnophis elegans	Sauropsida	181	T	T	T
+Thamnophis elegans	Sauropsida	217	T	T	T
+Thamnophis elegans	Sauropsida	403	A	A	A
+Thamnophis sirtalis	Sauropsida	50	I	I	I
+Thamnophis sirtalis	Sauropsida	69	T	T	T
+Thamnophis sirtalis	Sauropsida	181	T	T	T
+Thamnophis sirtalis	Sauropsida	217	T	T	T
+Thamnophis sirtalis	Sauropsida	403	A	A	A
+Tiliqua scincoides	Sauropsida	50	I	I	I
+Tiliqua scincoides	Sauropsida	69	T	T	T
+Tiliqua scincoides	Sauropsida	181	T	T	T
+Tiliqua scincoides	Sauropsida	217	T	T	T
+Tiliqua scincoides	Sauropsida	403	T	T	T
+Trachemys scripta elegans	Sauropsida	50	I	K	K
+Trachemys scripta elegans	Sauropsida	69	T		
+Trachemys scripta elegans	Sauropsida	181	T	T	T
+Trachemys scripta elegans	Sauropsida	217	T	T	T
+Trachemys scripta elegans	Sauropsida	403	A	A	A
+Triturus cristatus	Amphibia	50			
+Triturus cristatus	Amphibia	69			
+Triturus cristatus	Amphibia	181			
+Triturus cristatus	Amphibia	217			
+Triturus cristatus	Amphibia	403	T	T	T
+Tympanuchus pallidicinctus	Sauropsida	50	I	I	I
+Tympanuchus pallidicinctus	Sauropsida	69	T	T	T
+Tympanuchus pallidicinctus	Sauropsida	181	T	T	T
+Tympanuchus pallidicinctus	Sauropsida	217	T	T	T
+Tympanuchus pallidicinctus	Sauropsida	403	A	A	A
+Tyto alba	Sauropsida	50	I	I	I
+Tyto alba	Sauropsida	69	T	T	T
+Tyto alba	Sauropsida	181	T	T	T
+Tyto alba	Sauropsida	217	T	T	T
+Tyto alba	Sauropsida	403	A	A	A
+Vanellus vanellus	Sauropsida	50	I	I	I
+Vanellus vanellus	Sauropsida	69	T	T	T
+Vanellus vanellus	Sauropsida	181	T	T	T
+Vanellus vanellus	Sauropsida	217	T	T	T
+Vanellus vanellus	Sauropsida	403	A	A	A
+Varanus komodoensis	Sauropsida	50	I	I	I
+Varanus komodoensis	Sauropsida	69	T	T	T
+Varanus komodoensis	Sauropsida	181	T	T	T
+Varanus komodoensis	Sauropsida	217	T	T	T
+Varanus komodoensis	Sauropsida	403	T	T	T
+Vidua chalybeata	Sauropsida	50	I		
+Vidua chalybeata	Sauropsida	69	T		
+Vidua chalybeata	Sauropsida	181	T	T	T
+Vidua chalybeata	Sauropsida	217	T	T	T
+Vidua chalybeata	Sauropsida	403	A	A	A
+Vidua macroura	Sauropsida	50	I		
+Vidua macroura	Sauropsida	69	T		
+Vidua macroura	Sauropsida	181	T	T	T
+Vidua macroura	Sauropsida	217	T	T	T
+Vidua macroura	Sauropsida	403	A	A	A
+Vipera berus	Sauropsida	50	I	I	I
+Vipera berus	Sauropsida	69	T	T	T
+Vipera berus	Sauropsida	181	T	T	T
+Vipera berus	Sauropsida	217	T	T	T
+Vipera berus	Sauropsida	403	A	A	A
+Vipera ursinii	Sauropsida	50	I		I
+Vipera ursinii	Sauropsida	69	T		T
+Vipera ursinii	Sauropsida	181	T		T
+Vipera ursinii	Sauropsida	217	T		T
+Vipera ursinii	Sauropsida	403	A		A
+Xenopus tropicalis	Amphibia	50			
+Xenopus tropicalis	Amphibia	69			
+Xenopus tropicalis	Amphibia	181	T	T	T
+Xenopus tropicalis	Amphibia	217	T	T	T
+Xenopus tropicalis	Amphibia	403	T	T	T
+Zonotrichia albicollis	Sauropsida	50	I	I	I
+Zonotrichia albicollis	Sauropsida	69	T	T	T
+Zonotrichia albicollis	Sauropsida	181	T	T	T
+Zonotrichia albicollis	Sauropsida	217	T	T	T
+Zonotrichia albicollis	Sauropsida	403	A	A	A
+Zonotrichia leucophrys gambelii	Sauropsida	50	I	I	I
+Zonotrichia leucophrys gambelii	Sauropsida	69	T	T	T
+Zonotrichia leucophrys gambelii	Sauropsida	181	T	T	T
+Zonotrichia leucophrys gambelii	Sauropsida	217	T	T	T
+Zonotrichia leucophrys gambelii	Sauropsida	403	A	A	A
+Zootoca vivipara	Sauropsida	50	I	I	I
+Zootoca vivipara	Sauropsida	69	T	T	T
+Zootoca vivipara	Sauropsida	181	T	T	T
+Zootoca vivipara	Sauropsida	217	T	T	T
+Zootoca vivipara	Sauropsida	403	A	A	A
+Zosterops lateralis	Sauropsida	50	I	I	I
+Zosterops lateralis	Sauropsida	69	T	T	T
+Zosterops lateralis	Sauropsida	181	T	T	T
+Zosterops lateralis	Sauropsida	217	T	T	T
+Zosterops lateralis	Sauropsida	403	A	A	A
