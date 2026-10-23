@@ -1,0 +1,16 @@
+clado	n_especies	monofiletico	nodo	pos50_estado	pos50_P(T)	pos50_P(S)	pos52_estado	pos52_P(T)	pos52_P(S)	pos69_estado	pos69_P(T)	pos69_P(S)	pos111_estado	pos111_P(T)	pos111_P(S)	pos181_estado	pos181_P(T)	pos181_P(S)	pos205_estado	pos205_P(T)	pos205_P(S)
+Theria	257	True	Node213	T	0.861	0.046	A	0.041	0.001	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Metatheria	11	True	Node214	T	0.689	0.002	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Eutheria	246	True	Node212	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Glires	53	True	Node12	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Rodentia	49	True	Node13	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Myomorpha	29	True	Node16	T	0.98	0.001	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Muroidea	28	True	Node17	T	0.51	0.004	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Sciuromorpha	10	True	Node52	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Hystricomorpha	5	True	Node48	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Lagomorpha	4	True	Node61	T	0.985	0.014	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Primates	33	True	Node8	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Chiroptera	30	True	Node182	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Eulipotyphla	6	True	Node177	T	0.992	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Afrotheria	8	True	Node227	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
+Laurasiatheria	147	True	Node65	T	1.0	0.0	A	0.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0	T	1.0	0.0
