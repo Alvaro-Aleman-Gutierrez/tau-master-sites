@@ -1,5 +1,7 @@
 # Evolution of the master phosphorylation sites of tau
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23623568.svg)](https://doi.org/10.5281/zenodo.23623568)
+
 Data and code for the article
 
 > Alemán-Gutiérrez, A. Threonine 50, a master phosphorylation site of tau, was lost in the ancestor of murid and cricetid rodents. Submitted to *Computational Biology and Chemistry*.
@@ -56,4 +58,8 @@ Code is released under the MIT licence (`LICENSE`). The sequence data in `data/r
 
 ## Citation
 
-Please cite the article and the archived release of this repository (Zenodo DOI to be added on release).
+Please cite the article and the archived release of this repository.
+
+> Alemán-Gutiérrez, A. (2026). Evolution of the master phosphorylation sites of tau: data and code (v1.0). Zenodo. https://doi.org/10.5281/zenodo.23623568
+
+The DOI above points to version 1.0, the one used in the submitted article. The concept DOI https://doi.org/10.5281/zenodo.23623567 always resolves to the latest version.
