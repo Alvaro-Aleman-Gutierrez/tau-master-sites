@@ -118,7 +118,7 @@ def main():
     # solo de la parsimonia sobre los grandes grupos (barra hueca), que tiene menos respaldo.
     events = [((node["amn"][0] + tip) / 2 - 8, y["Sauropsids"], "T50→I", True, False),
               ((node["the"][0] + node["pla"][0]) / 2, node["pla"][1], "S184→G", False, True),
-              ((node["pri"][0] + tip) / 2, y["Haplorrhine primates"], "N113→S\nG184→S", True, True),
+              ((node["pri"][0] + tip) / 2, y["Haplorrhine primates"], "N113→S\nG184→S", False, True),
               ((node["rod"][0] + tip) / 2, y["Cricetidae + Muridae"], "T50→P", True, True)]
     for xm, ym, label, above, reconstructed in events:
         ax.add_patch(Rectangle((xm - 0.45, ym - 1.6), 0.9, 3.2, fc=FOCUS if reconstructed else "white",
