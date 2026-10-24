@@ -24,9 +24,13 @@ FOOTNOTE = (
     "vertebrates in Trushina et al. (2019). PHF, detection in paired helical filament tau by mass "
     "spectrometry (MS) or only with a phosphospecific antibody (Ab) in Hanger et al. (2007). AD and "
     "control, percentage of 49 Alzheimer disease patients and 43 controls with the site phosphorylated "
-    "(Wesseling et al., 2020); a dash means the site was not reported as a single residue. Tetrapods counts "
-    "species whose best matching isoform aligns at the site. FEL p tests whether the nonsynonymous rate "
-    "differs from the synonymous rate at the codon."
+    "(Wesseling et al., 2020); a dash means the site was not reported as a single residue. Mammals "
+    "identical, species of the 259 that carry the human residue; mammals S or T, species with any "
+    "phosphorylatable residue at the site. Tetrapods identical, non-mammalian species that carry the human "
+    "residue, over those whose best matching isoform aligns at the site, so the denominator differs between "
+    "sites. At T50, for example, 2 of 225 species carry threonine and the rest isoleucine (222 sauropsids) "
+    "or serine (one caecilian). FEL p tests whether the nonsynonymous rate differs from the synonymous rate "
+    "at the codon."
 )
 
 

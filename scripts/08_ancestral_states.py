@@ -24,12 +24,13 @@ def best_model():
         if line.startswith("Best-fit model:"):
             return line.split()[2]
     raise RuntimeError("no se encontró el modelo de ModelFinder")
-SITES = [50, 52, 69, 111, 181, 205]
+SITES = [50, 52, 69, 111, 113, 181, 184, 205]
 
 # Clados definidos por un taxón del linaje NCBI.
 CLADES = ["Theria", "Metatheria", "Eutheria", "Glires", "Rodentia", "Myomorpha",
-          "Muroidea", "Eumuroida", "Sciuromorpha", "Hystricomorpha", "Lagomorpha",
-          "Primates", "Chiroptera", "Eulipotyphla", "Afrotheria", "Laurasiatheria"]
+          "Muroidea", "Cricetidae+Muridae", "Sciuromorpha", "Hystricomorpha", "Lagomorpha",
+          "Primates", "Haplorrhini", "Strepsirrhini", "Chiroptera", "Eulipotyphla", "Afrotheria",
+          "Laurasiatheria"]
 
 
 def run_iqtree():
@@ -87,7 +88,8 @@ def main():
 
     rows = []
     for clade in CLADES:
-        members = [t for t in tips if clade in lin.get(t, [])]
+        parts = clade.split("+")  # "Cricetidae+Muridae" es la unión de dos familias
+        members = [t for t in tips if any(p in lin.get(t, []) for p in parts)]
         if len(members) < 2:
             continue
         node = tree.common_ancestor(members)

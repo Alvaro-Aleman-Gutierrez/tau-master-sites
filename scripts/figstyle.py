@@ -71,8 +71,9 @@ def save(fig, name, outdir, dpi=1000):
     """
     os.makedirs(outdir, exist_ok=True)
     base = os.path.join(outdir, name)
-    fig.savefig(base + ".eps", format="eps")
-    fig.savefig(base + ".pdf")
+    # Sin fecha de creación, para que volver a generar una figura idéntica no cambie el archivo.
+    fig.savefig(base + ".eps", format="eps", metadata={"CreationDate": None})
+    fig.savefig(base + ".pdf", metadata={"CreationDate": None})
     fig.savefig(base + ".png", dpi=dpi)
     im = Image.open(base + ".png").convert("RGB")
     im.save(base + ".tif", format="TIFF", compression="tiff_lzw", dpi=(dpi, dpi))
