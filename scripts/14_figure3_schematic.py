@@ -114,12 +114,15 @@ def main():
     # Transiciones sobre las ramas: (x de la marca, y de la rama, rótulo). Dentro de mamíferos vienen
     # de la reconstrucción ancestral; la de los saurópsidos, de la parsimonia del paso 13.
     # El cuarto valor indica si el rótulo va arriba (True) o abajo (False) de la rama.
-    events = [((node["amn"][0] + tip) / 2 - 8, y["Sauropsids"], "T50→I", True),
-              ((node["the"][0] + node["pla"][0]) / 2, node["pla"][1], "S184→G", False),
-              ((node["pri"][0] + tip) / 2, y["Haplorrhine primates"], "N113→S\nG184→S", True),
-              ((node["rod"][0] + tip) / 2, y["Cricetidae + Muridae"], "T50→P", True)]
-    for xm, ym, label, above in events:
-        ax.plot([xm, xm], [ym - 1.6, ym + 1.6], color=FOCUS, lw=2.2, solid_capstyle="butt", zorder=3)
+    # Quinto valor: True si el cambio viene de la reconstrucción ancestral (barra llena) y False si
+    # solo de la parsimonia sobre los grandes grupos (barra hueca), que tiene menos respaldo.
+    events = [((node["amn"][0] + tip) / 2 - 8, y["Sauropsids"], "T50→I", True, False),
+              ((node["the"][0] + node["pla"][0]) / 2, node["pla"][1], "S184→G", False, True),
+              ((node["pri"][0] + tip) / 2, y["Haplorrhine primates"], "N113→S\nG184→S", True, True),
+              ((node["rod"][0] + tip) / 2, y["Cricetidae + Muridae"], "T50→P", True, True)]
+    for xm, ym, label, above, reconstructed in events:
+        ax.add_patch(Rectangle((xm - 0.45, ym - 1.6), 0.9, 3.2, fc=FOCUS if reconstructed else "white",
+                               ec=FOCUS, lw=1.0, zorder=3))
         ax.text(xm, ym - 2.0 if above else ym + 2.0, label, ha="center", va="bottom" if above else "top",
                 fontsize=7, color=INK, zorder=4, linespacing=1.1,
                 bbox=dict(boxstyle="square,pad=0.1", fc="white", ec="none"))
