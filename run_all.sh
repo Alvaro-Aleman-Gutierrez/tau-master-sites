@@ -5,7 +5,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 mkdir -p results figures tables
-FROM="${1:-1}"   # paso desde el que empezar (1 a 13)
+FROM="${1:-1}"   # paso desde el que empezar (1 a 14)
 
 step() { local n=$1; shift; if [ "$n" -ge "$FROM" ]; then echo "== paso $n: $*"; "$@"; fi; }
 
@@ -21,4 +21,6 @@ step 9  python3 scripts/09_figures.py
 step 10 python3 scripts/10_tables.py
 step 11 python3 scripts/11_graphical_abstract.py
 step 12 python3 scripts/12_isoform_sensitivity.py
+step 13 python3 scripts/13_tetrapod_parsimony.py
+step 14 python3 scripts/14_figure3_schematic.py
 echo "Listo. Resultados en results/, figuras en figures/ y tablas en tables/."

@@ -1,7 +1,7 @@
 {
   "title": "Evolution of the master phosphorylation sites of tau: data and code",
   "upload_type": "software",
-  "description": "<p>Data and code for the article <em>Threonine 50, a master phosphorylation site of tau, is widespread in placental mammals but absent from murid and cricetid rodents</em>, submitted to Computational Biology and Chemistry.</p><p>The repository rebuilds every result, table and figure of the article from the NCBI download of 21 October 2026. It traces the 85 serines, threonines and tyrosines of human 2N4R tau across 259 mammals and 240 non-mammalian tetrapods, estimates codon-level selection with FEL and FUBAR, reconstructs ancestral states on a species tree and annotates each site with published evidence of its function and of its phosphorylation in Alzheimer disease.</p>",
+  "description": "<p>Data and code for the article <em>Threonine 50, a master phosphorylation site of tau, was lost in the ancestor of murid and cricetid rodents</em>, submitted to Computational Biology and Chemistry.</p><p>The repository rebuilds every result, table and figure of the article from the NCBI download of 21 October 2026. It traces the 85 serines, threonines and tyrosines of human 2N4R tau across 259 mammals and 240 non-mammalian tetrapods, estimates codon-level selection with FEL and FUBAR, reconstructs ancestral states on a species tree and annotates each site with published evidence of its function and of its phosphorylation in Alzheimer disease.</p>",
   "creators": [
     {
       "name": "Alemán-Gutiérrez, Alvaro",
