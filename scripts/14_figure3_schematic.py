@@ -123,7 +123,11 @@ def main():
     for xm, ym, label, above, reconstructed in events:
         ax.add_patch(Rectangle((xm - 0.45, ym - 1.6), 0.9, 3.2, fc=FOCUS if reconstructed else "white",
                                ec=FOCUS, lw=1.0, zorder=3))
-        ax.text(xm, ym - 2.0 if above else ym + 2.0, label, ha="center", va="bottom" if above else "top",
+        # El rótulo de S184 se alinea a la derecha de su marca para no cruzar la línea vertical del
+        # nodo de los placentarios, que baja justo a la derecha de esa rama.
+        right_aligned = label.startswith("S184")
+        ax.text(xm + 0.6 if right_aligned else xm, ym - 2.0 if above else ym + 2.0, label,
+                ha="right" if right_aligned else "center", va="bottom" if above else "top",
                 fontsize=7, color=INK, zorder=4, linespacing=1.1,
                 bbox=dict(boxstyle="square,pad=0.1", fc="white", ec="none"))
 
