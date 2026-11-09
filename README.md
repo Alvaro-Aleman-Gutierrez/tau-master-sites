@@ -2,9 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23623568.svg)](https://doi.org/10.5281/zenodo.23623568)
 
-Data and code for the article
-
-> Alemán-Gutiérrez, A. Threonine 50, a master phosphorylation site of tau, was lost in the ancestor of murid and cricetid rodents. Submitted to *Computational Biology and Chemistry*.
+Data and code for the article "Threonine 50, a master phosphorylation site of tau, was lost in the ancestor of murid and cricetid rodents", submitted.
 
 The repository rebuilds every result, table and figure of the article from public sequence data. It traces the 85 serines, threonines and tyrosines of human 2N4R tau (NP_005901.2) across 259 mammals and 240 non-mammalian tetrapods, estimates codon-level selection with FEL and FUBAR, reconstructs ancestral states on a species tree and annotates each site with published evidence of its function and of its phosphorylation in Alzheimer disease.
 
